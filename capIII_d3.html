@@ -3,11 +3,93 @@
 <head>
   <meta charset="utf-8">
   <script src="https://d3js.org/d3.v5.min.js"></script>                           
-  <script src="example_demo1.js"></script>                      
+  <script>
+
+    function coordsPixels( selector ) {
+    var txt = d3.select( selector ).append( "text" );             
+    var svg = d3.select( selector ).attr( "cursor", "crosshair" ) 
+        .on( "mousemove", function() {
+            var pt = d3.mouse( svg.node() );                      
+            txt.attr( "x", 18+pt[0] ).attr( "y", 6+pt[1] )        
+                .text( "" + pt[0] + "," + pt[1] );
+        } );
+      }
+
+
+  	function makeSort() {
+    var data = [ "Jane", "Anne", "Mary" ];
+
+    var ul = d3.select( "#sort" );
+    ul.selectAll( "li" ).data( data ).enter().append( "li" )      
+        .text( d => d );
+
+    // insert on mouse enter
+    var once;                                                     
+    ul.on( "mouseenter", function() {                             
+        if( once ) { return; }
+        once = 1;
+        ul.insert( "li", ":nth-child(2)" )                        
+            .datum( "Lucy" ).text( "Lucy" );
+        ul.insert( "li", ":first-child" )                         
+            .datum( "Lisa" ).text( "Lisa" );
+    } );
+
+    // sort on click
+    ul.on( "click", function() {                                  
+        ul.selectAll( "li" ).sort( (a,b)=>( a<b?-1:b<a?1:0 ) );   
+    } );
+}
+function letters(width){
+  const svg = d3.create("svg")
+      .attr("width", width)
+      .attr("height", 33)
+      .attr("viewBox", `0 -20 ${width} 33`);
+
+  svg.selectAll("text")
+    .data(randomLetters())
+    .join("text")
+      .attr("x", (d, i) => i * 16)
+      .text(d => d);
+
+  var ul = d3.select( "#sort" );
+  ul.append(() => svg.node());
+}
+
+function randomLetters() {
+  return d3.shuffle("abcdefghijklmnopqrstuvwxyz".split(""))
+    .slice(0, Math.floor(6 + Math.random() * 20))
+    .sort();
+}
+function makeStagger(mycolor) {
+    var ds1 = [ 2, 1, 3, 5, 7, 8, 9, 9, 9, 8, 7, 5, 3, 1, 2 ];    
+    var ds2 = [ 8, 9, 8, 7, 5, 3, 2, 1, 2, 3, 5, 7, 8, 9, 8 ];
+    var n = ds1.length, mx = d3.max( d3.merge( [ds1, ds2] ) );    
+
+    var svg = d3.select( "#stagger" );
+
+    var scX = d3.scaleLinear().domain( [0,n] ).range( [50,540] ); 
+    var scY = d3.scaleLinear().domain( [0,mx] ).range( [250,50] );
+    //var mycolor = "red";
+    svg.selectAll( "line" ).data( ds1 ).enter().append( "line" )  
+        .attr( "stroke", "red" ).attr( "stroke-width", 20 )
+        .attr( "x1", (d,i)=>scX(i) ).attr( "y1", scY(0) )
+        .attr( "x2", (d,i)=>scX(i) ).attr( "y2", d=>scY(d) );
+    
+    svg.on( "click", function() {                                 
+        [ ds1, ds2 ] = [ ds2, ds1 ];                              
+        mycolor = (mycolor == 'red')? 'lime' : 'red';
+        svg.selectAll( "line" ).data( ds1 )                       
+            .transition().duration( 1000 ).delay( (d,i)=>200*i )  
+            .attr( "stroke", mycolor).attr( "y2", d=>scY(d) );
+        console.log(mycolor);                      
+    } );
+}
+  </script>                      
 </head>
 
-<body onload="makeDemo3()">                                      
-  <svg id="demo1" width="600" height="300"
-       style="background: lightgrey" />                          
+<body onload="makeStagger('red')">                                      
+  <svg id="stagger" style="background: lightgrey" >
+   
+       </svg>                    
 </body>
 </html>
