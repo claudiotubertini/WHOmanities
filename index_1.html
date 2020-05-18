@@ -6,16 +6,23 @@
 <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
 <script src="https://d3js.org/d3-fetch.v1.min.js"></script>
   <script>
-  	function test(){
+  	function aync test(){
   		
-	  d3.csv("https://claudiotubertini.github.io/WHOmanities/WHO-COVID-19-global-data.csv")
+	  // data_covid = await d3.csv("https://claudiotubertini.github.io/WHOmanities/WHO-COVID-19-global-data.csv")
+			// 					  	.then(data => data.map(x => {return {
+			// 					  		day: x["day"],
+			// 					  		Region: x["Region"],
+			// 					  		Confirmed: +x["Confirmed"],
+			// 					  		"Cumulative Confirmed": +x["Cumulative Confirmed"]}}));
+			// 	console.log(data_covid);				  	
+			d3.csv("https://claudiotubertini.github.io/WHOmanities/covid_italy.csv")
 								  	.then(data => data.map(x => {return {
 								  		day: x["day"],
 								  		Region: x["Region"],
+								  		country: x["Country Name"]
 								  		Confirmed: +x["Confirmed"],
 								  		"Cumulative Confirmed": +x["Cumulative Confirmed"]}}))
 								  	.then(function(data){return console.log(JSON.stringify(data))});
-
 	}
   </script>
   <style>
