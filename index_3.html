@@ -3,29 +3,9 @@
 <head>
   <meta charset="utf-8">
 <script src="https://d3js.org/d3.v5.min.js"></script>
- <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
-<script src="https://d3js.org/d3-fetch.v1.min.js"></script>
-<script src="https://d3js.org/d3-time.v1.min.js"></script>
-<script src="https://d3js.org/d3-axis.v1.min.js"></script>
-<!-- <script src="https://d3js.org/d3-array.v2.min.js"></script>  -->
-<style type="text/css">
-	.bar { fill: steelblue; }
-</style>
+
   <script>
-  	async function makeStagger(){
-  		// first we retrieve data
-  				
-		//let data_as_text;
-		// data_covid = await d3.csv("https://claudiotubertini.github.io/WHOmanities/covid_italy.csv")
-		// 				  	.then(data => data.map(x => {return {
-		// 					  		day: x["day"],
-		// 					  		Region: x["Region"],
-		// 					  		country: x["Country Name"],
-		// 					  		Confirmed: +x["Confirmed"],
-		// 					  		"Cumulative Confirmed": +x["Cumulative Confirmed"]}}))
-		
-		// var dataByRegion = d3.group(data_covid, d => d.Region)
-		// console.log(dataByRegion);
+  	async function makeStagger(mycolor){
 
 		// set the dimensions and margins of the graph
 		var margin = {top: 40, right: 20, bottom: 70, left: 100},
@@ -38,20 +18,16 @@
 		var parseDate = d3.timeFormat("%Y-%m-%d");
 		
 		// Set the ranges and axis
-		//var x = d3.scaleTime().range([0, width]);
-		var x = d3.scaleBand()
-				    .range([0, width])
-				    // .round(true)
-    				// .padding(.1)
+		var x = d3.scaleBand().range([0, width])
 
 		var y = d3.scaleLinear().range([height, 0]);
 		var xAxis = d3.axisBottom()
 		    .scale(x)
-		    .ticks(d3.timeDay.every(2));
+		    //.ticks(10);
 
 		var yAxis = d3.axisLeft()
 		    .scale(y)
-		    .ticks(10);
+		    .ticks(5);
 		          
 		// append the svg object to the body of the page
 		// append a 'group' element to 'svg'
@@ -68,18 +44,29 @@
 		.then(data => data.map(x => {return {
 							  		date: x.day,
 							  		"Cumulative Confirmed": +x["Cumulative Confirmed"]}}))
-		  
+		  let data2 = await d3.csv("https://claudiotubertini.github.io/WHOmanities/covid_germany.csv")
+		.then(data2 => data2.map(x => {return {
+							  		date: x.day,
+							  		"Cumulative Confirmed": +x["Cumulative Confirmed"]}}))
 			console.log(data)
-		  // format the data
-		  // data.forEach(function(d) {
-		     
-		  //       d["Cumulative Confirmed"] = +d["Cumulative Confirmed"];
-		  //   });
+			console.log(data2)
+			
+			svg.on( "click", function() {                                 
+		        [ data, data2 ] = [ data2, data ];                              
+		        mycolor = (mycolor == "steelblue")? "lime" : "steelblue";
+		        svg.selectAll(".bar")
+		      .data(data)
+		      .transition().duration( 1000 ).delay( (d,i)=>100*i )  
+		      .style("fill", mycolor)
+		      .attr("x", function(d) { return x(d.date); })
+		      .attr("width", 10)
+		      .attr("y", function(d) { return y(d["Cumulative Confirmed"]); })
+		      .attr("height", function(d) { return height - y(d["Cumulative Confirmed"]); });                    
+		    	} );
 		  
 
 		  // Scale the range of the data in the domains
 		  x.domain(data.map(function(d) { return d.date; })); 
-		  //x.domain(d3.extent(data, function(d) { return d.date; }));
 		  y.domain([0, d3.max(data, function(d) { return d["Cumulative Confirmed"]; })]);
 
 		  // append the rectangles for the bar chart
@@ -87,7 +74,7 @@
 		      .data(data)
 		    .enter().append("rect")
 		      .attr("class", "bar")
-		      .style("fill", "steelblue")
+		      .style("fill", mycolor)
 		      .attr("x", function(d) { return x(d.date); })
 		      .attr("width", 10)
 		      .attr("y", function(d) { return y(d["Cumulative Confirmed"]); })
@@ -116,14 +103,10 @@
 	}
 
   </script>
- 
-  <style type="text/css">
-	.bar { fill: steelblue; }
-</style>
   
 </head>
 
-<body onload="makeStagger()">
+<body onload="makeStagger('red')">
 	
 </body>
 </html>

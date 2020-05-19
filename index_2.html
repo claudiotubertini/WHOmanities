@@ -3,44 +3,34 @@
 <head>
   <meta charset="utf-8">
 <script src="https://d3js.org/d3.v5.min.js"></script>
- <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+ <!-- <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
 <script src="https://d3js.org/d3-fetch.v1.min.js"></script>
 <script src="https://d3js.org/d3-time.v1.min.js"></script>
+<script src="https://d3js.org/d3-axis.v1.min.js"></script> -->
 <!-- <script src="https://d3js.org/d3-array.v2.min.js"></script>  -->
-<style type="text/css">
+<!-- <style type="text/css">
 	.bar { fill: steelblue; }
-</style>
+</style> -->
   <script>
-  	(async function (){
-  		// first we retrieve data
-  				
-		//let data_as_text;
-		// data_covid = await d3.csv("https://claudiotubertini.github.io/WHOmanities/covid_italy.csv")
-		// 				  	.then(data => data.map(x => {return {
-		// 					  		day: x["day"],
-		// 					  		Region: x["Region"],
-		// 					  		country: x["Country Name"],
-		// 					  		Confirmed: +x["Confirmed"],
-		// 					  		"Cumulative Confirmed": +x["Cumulative Confirmed"]}}))
-		
-		// var dataByRegion = d3.group(data_covid, d => d.Region)
-		// console.log(dataByRegion);
-
+  	async function makeStagger(){
+  		
 		// set the dimensions and margins of the graph
-		var margin = {top: 20, right: 20, bottom: 30, left: 40},
-	    width = 960 - margin.left - margin.right,
-	    height = 500 - margin.top - margin.bottom;
+		var margin = {top: 40, right: 20, bottom: 70, left: 100},
+	    width = 1260 - margin.left - margin.right,
+	    height = 700 - margin.top - margin.bottom;
 
-		// set the ranges
-		// Parse the date / time
-		//var parseDate = d3.timeFormat("%y-%b-%d");
-		
-		// Set the ranges
-		var x = d3.scaleTime().range([0, width]);
-		// var x = d3.scaleBand()
-		//           .range([0, width])
-		//           .padding(0.1);
+		// Set the ranges and axis
+		//var x = d3.scaleTime().range([0, width]);
+		var x = d3.scaleBand().range([0, width])
+
 		var y = d3.scaleLinear().range([height, 0]);
+		var xAxis = d3.axisBottom()
+		    .scale(x)
+		    .ticks(d3.timeDay.every(2));
+
+		var yAxis = d3.axisLeft()
+		    .scale(y)
+		    .ticks(10);
 		          
 		// append the svg object to the body of the page
 		// append a 'group' element to 'svg'
@@ -54,17 +44,20 @@
 
 		// get the data
 		let data = await d3.csv("https://claudiotubertini.github.io/WHOmanities/covid_italy.csv")
-		  
-
-		  // format the data
-		  data.forEach(function(d) {
-		        //d.day = parseDate(d.day);
-		        d["Cumulative Confirmed"] = +d["Cumulative Confirmed"];
-		    });
-		  
+		.then(data => data.map(x => {return {
+							  		date: x.day,
+							  		"Cumulative Confirmed": +x["Cumulative Confirmed"]}}))
+		  let data2 = await d3.csv("https://claudiotubertini.github.io/WHOmanities/covid_germany.csv")
+		.then(data2 => data2.map(x => {return {
+							  		date: x.day,
+							  		"Cumulative Confirmed": +x["Cumulative Confirmed"]}}))
+			console.log(data)
+			console.log(data2)
+			
 
 		  // Scale the range of the data in the domains
-		  x.domain(data.map(function(d) { return d.day; }));
+		  x.domain(data.map(function(d) { return d.date; })); 
+		  //x.domain(d3.extent(data, function(d) { return d.date; }));
 		  y.domain([0, d3.max(data, function(d) { return d["Cumulative Confirmed"]; })]);
 
 		  // append the rectangles for the bar chart
@@ -72,36 +65,46 @@
 		      .data(data)
 		    .enter().append("rect")
 		      .attr("class", "bar")
-		      .attr("x", function(d) { return x(d.day); })
-		      .attr("width", 20)
+		      .style("fill", 'lime')
+		      .attr("x", function(d) { return x(d.date); })
+		      .attr("width", 10)
 		      .attr("y", function(d) { return y(d["Cumulative Confirmed"]); })
 		      .attr("height", function(d) { return height - y(d["Cumulative Confirmed"]); });
 
-		  // add the x Axis
 		  svg.append("g")
+		      .attr("class", "x axis")
 		      .attr("transform", "translate(0," + height + ")")
-		      .call(d3.axisBottom(x));
+		      .call(xAxis)
+		      .selectAll("text")
+		      .style("text-anchor", "end")
+		      .attr("dx", "-1.2em")
+		      .attr("dy", "-.55em")
+		      .attr("transform", "rotate(-90)" );
 
-		  // add the y Axis
+
 		  svg.append("g")
-		      .call(d3.axisLeft(y));
+		      .attr("class", "y axis")
+		      .call(yAxis)
+		      .append("text")
+		      .attr("transform", "rotate(-90)")
+		      .attr("y", 6)
+		      .attr("dy", ".71em")
+		      .style("text-anchor", "end")
+		      .text("Confirmed");
 
-	})()
+		    
+
+	}
 
   </script>
-  <style>
-  	.chart div {
-	  font: 10px sans-serif;
-	  background-color: steelblue;
-	  text-align: right;
-	  padding: 3px;
-	  margin: 1px;
-	  color: white;
-	}
-  </style>
+ 
+ <!--  <style type="text/css">
+	.bar { fill: steelblue; }
+</style> -->
+  
 </head>
 
-<body>
-	<svg class="bar">
+<body onload="makeStagger()">
+	
 </body>
 </html>
