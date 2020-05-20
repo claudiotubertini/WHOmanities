@@ -56,7 +56,7 @@
 			
 
 		  // Scale the range of the data in the domains
-		  x.domain(data.map(function(d) { return d.date; })); 
+		  x.domain(data.map(function(d) { return d.date; }).filter(d.date => {d.date > '2020-02-20'}));; 
 		  //x.domain(d3.extent(data, function(d) { return d.date; }));
 		  y.domain([0, d3.max(data, function(d) { return d["Cumulative Confirmed"]; })]);
 
