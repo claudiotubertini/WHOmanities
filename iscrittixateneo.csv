@@ -1,0 +1,1809 @@
+AnnoA;AteneoCOD;AteneoNOME;Ateneo_TIPO;Istituto_TIPO;Sesso;Isc
+2019/2020;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;630
+2019/2020;05816;Roma San Raffaele - telematica;private   ;UT;M;3757
+2019/2020;05817;Roma Link Campus;private   ;U;F;265
+2019/2020;05817;Roma Link Campus;private   ;U;M;624
+2019/2020;05818;Roma Saint Camillus;private   ;U;F;353
+2019/2020;05818;Roma Saint Camillus;private   ;U;M;185
+2019/2020;06001;Cassino;public    ;U;F;3775
+2019/2020;06001;Cassino;public    ;U;M;3271
+2019/2020;06201;Sannio;public    ;U;F;2237
+2019/2020;05802;Roma Tor Vergata;public    ;U;M;12587
+2019/2020;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;616
+2019/2020;05814;Roma  Mercatorum - telematica;private   ;UT;F;1241
+2019/2020;06301;Napoli Federico II;public    ;U;F;40308
+2019/2020;06301;Napoli Federico II;public    ;U;M;32767
+2019/2020;06302;Napoli Parthenope;public    ;U;F;4603
+2019/2020;06302;Napoli Parthenope;public    ;U;M;6090
+2019/2020;06303;Napoli L'Orientale;public    ;U;F;9257
+2019/2020;06303;Napoli L'Orientale;public    ;U;M;2334
+2019/2020;06304;Napoli Benincasa;private   ;U;F;7086
+2019/2020;06304;Napoli Benincasa;private   ;U;M;1237
+2019/2020;06306;Napoli Vanvitelli;public    ;U;F;13468
+2019/2020;06201;Sannio;public    ;U;M;2085
+2019/2020;05809;Roma UNINT;private   ;U;M;356
+2019/2020;05803;Roma LUMSA;private   ;U;F;4262
+2019/2020;05803;Roma LUMSA;private   ;U;M;1887
+2019/2020;05805;Roma LUISS;private   ;U;F;4282
+2019/2020;05805;Roma LUISS;private   ;U;M;5141
+2019/2020;05806;Roma Foro Italico;public    ;U;F;562
+2019/2020;05806;Roma Foro Italico;public    ;U;M;1516
+2019/2020;05807;Roma Tre;public    ;U;F;18238
+2019/2020;05807;Roma Tre;public    ;U;M;12428
+2019/2020;05808;Roma Biomedico;private   ;U;F;1241
+2019/2020;05816;Roma San Raffaele - telematica;private   ;UT;F;2913
+2019/2020;05809;Roma UNINT;private   ;U;F;1424
+2019/2020;05814;Roma  Mercatorum - telematica;private   ;UT;M;2687
+2019/2020;05810;Roma Marconi - telematica;private   ;UT;F;5156
+2019/2020;05810;Roma Marconi - telematica;private   ;UT;M;4965
+2019/2020;05811;Roma UNITELMA - telematica;private   ;UT;F;1039
+2019/2020;05811;Roma UNITELMA - telematica;private   ;UT;M;1082
+2019/2020;05812;Roma Europea;private   ;U;F;1080
+2019/2020;05812;Roma Europea;private   ;U;M;420
+2019/2020;05813;Roma UNINETTUNO - telematica;private   ;UT;F;6156
+2019/2020;05813;Roma UNINETTUNO - telematica;private   ;UT;M;8953
+2019/2020;06501;Salerno;public    ;U;M;15651
+2019/2020;05808;Roma Biomedico;private   ;U;M;787
+2019/2020;08301;Messina;public    ;U;M;8278
+2019/2020;06306;Napoli Vanvitelli;public    ;U;M;9452
+2019/2020;07801;Calabria;public    ;U;M;10211
+2019/2020;07901;Catanzaro;public    ;U;F;6773
+2019/2020;07901;Catanzaro;public    ;U;M;4271
+2019/2020;08001;Reggio Calabria;public    ;U;F;2529
+2019/2020;08001;Reggio Calabria;public    ;U;M;2324
+2019/2020;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;561
+2019/2020;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;125
+2019/2020;08201;Palermo;public    ;U;F;23849
+2019/2020;07601;Basilicata;public    ;U;M;2694
+2019/2020;08301;Messina;public    ;U;F;14158
+2019/2020;07601;Basilicata;public    ;U;F;3598
+2019/2020;08601;Enna KORE;private   ;U;F;3163
+2019/2020;08601;Enna KORE;private   ;U;M;1600
+2019/2020;08701;Catania;public    ;U;F;22066
+2019/2020;08701;Catania;public    ;U;M;16540
+2019/2020;09001;Sassari;public    ;U;F;8379
+2019/2020;09001;Sassari;public    ;U;M;4937
+2019/2020;09201;Cagliari;public    ;U;F;14720
+2019/2020;09201;Cagliari;public    ;U;M;10477
+2019/2020;00101;Torino;public    ;U;F;46648
+2019/2020;08201;Palermo;public    ;U;M;17145
+2019/2020;07101;Foggia;public    ;U;F;6566
+2019/2020;06307;Napoli Pegaso - telematica;private   ;UT;F;19986
+2019/2020;06601;L'Aquila;public    ;U;F;8690
+2019/2020;06601;L'Aquila;public    ;U;M;7122
+2019/2020;06701;Teramo;public    ;U;F;3115
+2019/2020;06701;Teramo;public    ;U;M;2344
+2019/2020;06901;Chieti e Pescara;public    ;U;F;14802
+2019/2020;06901;Chieti e Pescara;public    ;U;M;8152
+2019/2020;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;37
+2019/2020;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;23
+2019/2020;07801;Calabria;public    ;U;F;14134
+2019/2020;07001;Molise;public    ;U;M;2820
+2019/2020;06307;Napoli Pegaso - telematica;private   ;UT;M;26807
+2019/2020;07101;Foggia;public    ;U;M;3949
+2019/2020;07201;Bari;public    ;U;F;26629
+2019/2020;07201;Bari;public    ;U;M;15946
+2019/2020;07202;Bari Politecnico;public    ;P;F;2855
+2019/2020;07202;Bari Politecnico;public    ;P;M;6345
+2019/2020;07203;Casamassima - J.Monnet;private   ;U;F;642
+2019/2020;07203;Casamassima - J.Monnet;private   ;U;M;934
+2019/2020;07501;Salento;public    ;U;F;10810
+2019/2020;07501;Salento;public    ;U;M;6679
+2019/2020;07001;Molise;public    ;U;F;3916
+2019/2020;01601;Bergamo;public    ;U;F;13266
+2019/2020;02301;Verona;public    ;U;F;14503
+2019/2020;01504;Milano Cattolica;private   ;U;F;27317
+2019/2020;01504;Milano Cattolica;private   ;U;M;13935
+2019/2020;01505;Milano IULM;private   ;U;F;4911
+2019/2020;01505;Milano IULM;private   ;U;M;1872
+2019/2020;01508;Milano San Raffaele;private   ;U;F;1839
+2019/2020;01508;Milano San Raffaele;private   ;U;M;1130
+2019/2020;01509;Milano Bicocca;public    ;U;F;20466
+2019/2020;01509;Milano Bicocca;public    ;U;M;13267
+2019/2020;01503;Milano Bocconi;private   ;U;F;5630
+2019/2020;01510;Rozzano (MI) Humanitas University;private   ;U;M;420
+2019/2020;01502;Milano Politecnico;public    ;P;M;30119
+2019/2020;01601;Bergamo;public    ;U;M;7872
+2019/2020;01701;Brescia;public    ;U;F;6600
+2019/2020;01701;Brescia;public    ;U;M;7837
+2019/2020;01801;Pavia;public    ;U;F;13004
+2019/2020;01801;Pavia;public    ;U;M;10313
+2019/2020;02101;Bolzano;public    ;U;F;2747
+2019/2020;02101;Bolzano;public    ;U;M;1221
+2019/2020;02201;Trento;public    ;U;F;8569
+2019/2020;02201;Trento;public    ;U;M;8271
+2019/2020;01510;Rozzano (MI) Humanitas University;private   ;U;F;751
+2019/2020;01001;Genova;public    ;U;M;13633
+2019/2020;06501;Salerno;public    ;U;F;19442
+2019/2020;00101;Torino;public    ;U;M;29436
+2019/2020;05802;Roma Tor Vergata;public    ;U;F;14232
+2019/2020;00102;Torino Politecnico;public    ;P;M;23346
+2019/2020;00201;Piemonte Orientale;public    ;U;F;8050
+2019/2020;00201;Piemonte Orientale;public    ;U;M;5253
+2019/2020;00401;Bra Scienze Gastronomiche;private   ;U;F;179
+2019/2020;00401;Bra Scienze Gastronomiche;private   ;U;M;186
+2019/2020;00701;Aosta;public    ;U;F;706
+2019/2020;01503;Milano Bocconi;private   ;U;M;7968
+2019/2020;01001;Genova;public    ;U;F;16998
+2019/2020;00102;Torino Politecnico;public    ;P;F;9423
+2019/2020;01201;Castellanza LIUC;private   ;U;F;879
+2019/2020;01201;Castellanza LIUC;private   ;U;M;1612
+2019/2020;01202;Insubria;public    ;U;F;6128
+2019/2020;01202;Insubria;public    ;U;M;5251
+2019/2020;01301;Novedrate e-Campus - telematica;private   ;UT;F;10624
+2019/2020;01301;Novedrate e-Campus - telematica;private   ;UT;M;9606
+2019/2020;01501;Milano;public    ;U;F;36006
+2019/2020;01501;Milano;public    ;U;M;25235
+2019/2020;01502;Milano Politecnico;public    ;P;F;15209
+2019/2020;00701;Aosta;public    ;U;M;317
+2019/2020;05201;Siena;public    ;U;M;5988
+2019/2020;04301;Macerata;public    ;U;F;7326
+2019/2020;04301;Macerata;public    ;U;M;2600
+2019/2020;04302;Camerino;public    ;U;F;3092
+2019/2020;04302;Camerino;public    ;U;M;3206
+2019/2020;04801;Firenze;public    ;U;F;29950
+2019/2020;04801;Firenze;public    ;U;M;22145
+2019/2020;04804;Firenze IUL - telematica;private   ;UT;F;162
+2019/2020;04804;Firenze IUL - telematica;private   ;UT;M;51
+2019/2020;05001;Pisa;public    ;U;F;22885
+2019/2020;04201;Marche;public    ;P;M;8310
+2019/2020;05201;Siena;public    ;U;F;9208
+2019/2020;05601;Tuscia;public    ;U;M;3836
+2019/2020;05202;Siena Stranieri;public    ;U;F;1790
+2019/2020;05202;Siena Stranieri;public    ;U;M;368
+2019/2020;05401;Perugia;public    ;U;F;13593
+2019/2020;05401;Perugia;public    ;U;M;9908
+2019/2020;05403;Perugia Stranieri;public    ;U;F;710
+2019/2020;05403;Perugia Stranieri;public    ;U;M;374
+2019/2020;05601;Tuscia;public    ;U;F;4001
+2019/2020;05801;Roma La Sapienza;public    ;U;F;59799
+2019/2020;02301;Verona;public    ;U;M;7969
+2019/2020;05001;Pisa;public    ;U;M;21676
+2019/2020;02801;Padova;public    ;U;M;28555
+2019/2020;05801;Roma La Sapienza;public    ;U;M;44201
+2019/2020;02701;Venezia Cà Foscari;public    ;U;F;13527
+2019/2020;02701;Venezia Cà Foscari;public    ;U;M;7582
+2019/2020;02702;Venezia Iuav;public    ;U;F;2121
+2019/2020;04201;Marche;public    ;P;F;6785
+2019/2020;02801;Padova;public    ;U;F;31865
+2019/2020;03001;Udine;public    ;U;F;7777
+2019/2020;03001;Udine;public    ;U;M;7182
+2019/2020;03201;Trieste;public    ;U;F;8815
+2019/2020;03201;Trieste;public    ;U;M;6576
+2019/2020;04101;Urbino;public    ;U;F;9049
+2019/2020;03401;Parma;public    ;U;M;11308
+2019/2020;03601;Modena e Reggio Emilia;public    ;U;F;14124
+2019/2020;03601;Modena e Reggio Emilia;public    ;U;M;12585
+2019/2020;03701;Bologna;public    ;U;F;44333
+2019/2020;03701;Bologna;public    ;U;M;35313
+2019/2020;03801;Ferrara;public    ;U;F;13580
+2019/2020;03801;Ferrara;public    ;U;M;9357
+2019/2020;03401;Parma;public    ;U;F;15443
+2019/2020;04101;Urbino;public    ;U;M;5476
+2019/2020;02702;Venezia Iuav;public    ;U;M;1680
+2018/2019;06201;Sannio;public    ;U;M;2246
+2018/2019;06201;Sannio;public    ;U;F;2387
+2018/2019;06001;Cassino;public    ;U;M;3334
+2018/2019;06001;Cassino;public    ;U;F;3908
+2018/2019;05818;Roma Saint Camillus;private   ;U;M;75
+2018/2019;05818;Roma Saint Camillus;private   ;U;F;132
+2018/2019;05817;Roma Link Campus;private   ;U;M;1375
+2018/2019;05816;Roma San Raffaele - telematica;private   ;UT;M;3085
+2018/2019;06306;Napoli Vanvitelli;public    ;U;M;9926
+2018/2019;05817;Roma Link Campus;private   ;U;F;471
+2018/2019;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;389
+2018/2019;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;547
+2018/2019;06301;Napoli Federico II;public    ;U;F;40973
+2018/2019;06301;Napoli Federico II;public    ;U;M;33486
+2018/2019;06302;Napoli Parthenope;public    ;U;F;4873
+2018/2019;06302;Napoli Parthenope;public    ;U;M;6455
+2018/2019;06303;Napoli L'Orientale;public    ;U;F;9203
+2018/2019;06303;Napoli L'Orientale;public    ;U;M;2355
+2018/2019;06304;Napoli Benincasa;private   ;U;F;7010
+2018/2019;05816;Roma San Raffaele - telematica;private   ;UT;F;2363
+2018/2019;06306;Napoli Vanvitelli;public    ;U;F;13961
+2018/2019;05810;Roma Marconi - telematica;private   ;UT;M;4753
+2018/2019;06304;Napoli Benincasa;private   ;U;M;1208
+2018/2019;05810;Roma Marconi - telematica;private   ;UT;F;4862
+2018/2019;07601;Basilicata;public    ;U;F;3705
+2018/2019;05805;Roma LUISS;private   ;U;M;5065
+2018/2019;06307;Napoli Pegaso - telematica;private   ;UT;F;16552
+2018/2019;05806;Roma Foro Italico;public    ;U;F;554
+2018/2019;05806;Roma Foro Italico;public    ;U;M;1575
+2018/2019;05807;Roma Tre;public    ;U;F;18448
+2018/2019;05807;Roma Tre;public    ;U;M;12671
+2018/2019;05808;Roma Biomedico;private   ;U;F;1132
+2018/2019;05808;Roma Biomedico;private   ;U;M;710
+2018/2019;05811;Roma UNITELMA - telematica;private   ;UT;M;915
+2018/2019;05809;Roma UNINT;private   ;U;M;333
+2018/2019;05805;Roma LUISS;private   ;U;F;4216
+2018/2019;05811;Roma UNITELMA - telematica;private   ;UT;F;834
+2018/2019;05812;Roma Europea;private   ;U;F;850
+2018/2019;05812;Roma Europea;private   ;U;M;388
+2018/2019;05813;Roma UNINETTUNO - telematica;private   ;UT;F;5267
+2018/2019;05813;Roma UNINETTUNO - telematica;private   ;UT;M;7913
+2018/2019;05814;Roma  Mercatorum - telematica;private   ;UT;F;891
+2018/2019;05814;Roma  Mercatorum - telematica;private   ;UT;M;2554
+2018/2019;05815;Roma UNICUSANO - telematica;private   ;UT;F;9941
+2018/2019;05815;Roma UNICUSANO - telematica;private   ;UT;M;14278
+2018/2019;05809;Roma UNINT;private   ;U;F;1206
+2018/2019;08301;Messina;public    ;U;M;8345
+2018/2019;07501;Salento;public    ;U;F;10560
+2018/2019;07801;Calabria;public    ;U;M;10666
+2018/2019;07901;Catanzaro;public    ;U;F;6604
+2018/2019;07901;Catanzaro;public    ;U;M;4163
+2018/2019;08001;Reggio Calabria;public    ;U;F;2492
+2018/2019;08001;Reggio Calabria;public    ;U;M;2444
+2018/2019;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;636
+2018/2019;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;139
+2018/2019;08201;Palermo;public    ;U;F;22888
+2018/2019;07601;Basilicata;public    ;U;M;2710
+2018/2019;08301;Messina;public    ;U;F;14068
+2018/2019;07501;Salento;public    ;U;M;6430
+2018/2019;08601;Enna KORE;private   ;U;F;3158
+2018/2019;08601;Enna KORE;private   ;U;M;1662
+2018/2019;08701;Catania;public    ;U;F;23246
+2018/2019;08701;Catania;public    ;U;M;17191
+2018/2019;09001;Sassari;public    ;U;F;8338
+2018/2019;09001;Sassari;public    ;U;M;4885
+2018/2019;09201;Cagliari;public    ;U;F;14523
+2018/2019;02301;Verona;public    ;U;M;8120
+2018/2019;05803;Roma LUMSA;private   ;U;M;1756
+2018/2019;08201;Palermo;public    ;U;M;16593
+2018/2019;07001;Molise;public    ;U;M;2823
+2018/2019;06501;Salerno;public    ;U;F;19904
+2018/2019;06501;Salerno;public    ;U;M;15406
+2018/2019;06601;L'Aquila;public    ;U;F;8880
+2018/2019;06601;L'Aquila;public    ;U;M;7008
+2018/2019;06701;Teramo;public    ;U;F;3110
+2018/2019;06701;Teramo;public    ;U;M;2382
+2018/2019;06901;Chieti e Pescara;public    ;U;F;15089
+2018/2019;06901;Chieti e Pescara;public    ;U;M;8564
+2018/2019;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;41
+2018/2019;07801;Calabria;public    ;U;F;14581
+2018/2019;07001;Molise;public    ;U;F;3991
+2018/2019;06307;Napoli Pegaso - telematica;private   ;UT;M;23244
+2018/2019;07101;Foggia;public    ;U;F;6416
+2018/2019;07101;Foggia;public    ;U;M;3925
+2018/2019;07201;Bari;public    ;U;F;26589
+2018/2019;07201;Bari;public    ;U;M;15930
+2018/2019;07202;Bari Politecnico;public    ;P;F;3003
+2018/2019;07202;Bari Politecnico;public    ;P;M;6795
+2018/2019;07203;Casamassima - J.Monnet;private   ;U;F;594
+2018/2019;07203;Casamassima - J.Monnet;private   ;U;M;899
+2018/2019;09201;Cagliari;public    ;U;M;10246
+2018/2019;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;30
+2018/2019;01601;Bergamo;public    ;U;F;12032
+2018/2019;02301;Verona;public    ;U;F;14625
+2018/2019;01504;Milano Cattolica;private   ;U;F;26147
+2018/2019;01504;Milano Cattolica;private   ;U;M;13717
+2018/2019;01505;Milano IULM;private   ;U;F;4454
+2018/2019;01505;Milano IULM;private   ;U;M;1796
+2018/2019;01508;Milano San Raffaele;private   ;U;F;1721
+2018/2019;01508;Milano San Raffaele;private   ;U;M;1088
+2018/2019;01509;Milano Bicocca;public    ;U;F;20245
+2018/2019;01509;Milano Bicocca;public    ;U;M;12876
+2018/2019;01503;Milano Bocconi;private   ;U;F;5757
+2018/2019;01510;Rozzano (MI) Humanitas University;private   ;U;M;338
+2018/2019;01502;Milano Politecnico;public    ;P;M;29953
+2018/2019;01601;Bergamo;public    ;U;M;7406
+2018/2019;01701;Brescia;public    ;U;F;6364
+2018/2019;01701;Brescia;public    ;U;M;7573
+2018/2019;01801;Pavia;public    ;U;F;12779
+2018/2019;01801;Pavia;public    ;U;M;10300
+2018/2019;02101;Bolzano;public    ;U;F;2559
+2018/2019;02101;Bolzano;public    ;U;M;1198
+2018/2019;02201;Trento;public    ;U;F;8352
+2018/2019;02201;Trento;public    ;U;M;8145
+2018/2019;01510;Rozzano (MI) Humanitas University;private   ;U;F;608
+2018/2019;01001;Genova;public    ;U;M;13496
+2018/2019;02701;Venezia Cà Foscari;public    ;U;M;7428
+2018/2019;00101;Torino;public    ;U;M;28285
+2018/2019;05803;Roma LUMSA;private   ;U;F;3984
+2018/2019;00102;Torino Politecnico;public    ;P;M;23135
+2018/2019;00201;Piemonte Orientale;public    ;U;F;7719
+2018/2019;00201;Piemonte Orientale;public    ;U;M;4903
+2018/2019;00401;Bra Scienze Gastronomiche;private   ;U;F;168
+2018/2019;00401;Bra Scienze Gastronomiche;private   ;U;M;192
+2018/2019;00701;Aosta;public    ;U;F;710
+2018/2019;01503;Milano Bocconi;private   ;U;M;7754
+2018/2019;01001;Genova;public    ;U;F;16723
+2018/2019;00102;Torino Politecnico;public    ;P;F;9109
+2018/2019;01201;Castellanza LIUC;private   ;U;F;794
+2018/2019;01201;Castellanza LIUC;private   ;U;M;1491
+2018/2019;01202;Insubria;public    ;U;F;5824
+2018/2019;01202;Insubria;public    ;U;M;4874
+2018/2019;01301;Novedrate e-Campus - telematica;private   ;UT;F;7937
+2018/2019;01301;Novedrate e-Campus - telematica;private   ;UT;M;7531
+2018/2019;01501;Milano;public    ;U;F;34656
+2018/2019;01501;Milano;public    ;U;M;24616
+2018/2019;01502;Milano Politecnico;public    ;P;F;14905
+2018/2019;00701;Aosta;public    ;U;M;316
+2018/2019;05202;Siena Stranieri;public    ;U;M;383
+2018/2019;04302;Camerino;public    ;U;F;3377
+2018/2019;04302;Camerino;public    ;U;M;3399
+2018/2019;04801;Firenze;public    ;U;F;29837
+2018/2019;04801;Firenze;public    ;U;M;21783
+2018/2019;04804;Firenze IUL - telematica;private   ;UT;F;211
+2018/2019;04804;Firenze IUL - telematica;private   ;UT;M;75
+2018/2019;05001;Pisa;public    ;U;F;22701
+2018/2019;05001;Pisa;public    ;U;M;21630
+2018/2019;05201;Siena;public    ;U;F;9281
+2018/2019;04301;Macerata;public    ;U;M;2754
+2018/2019;05202;Siena Stranieri;public    ;U;F;1759
+2018/2019;05801;Roma La Sapienza;public    ;U;M;43533
+2018/2019;05401;Perugia;public    ;U;F;13389
+2018/2019;05401;Perugia;public    ;U;M;10099
+2018/2019;05403;Perugia Stranieri;public    ;U;F;671
+2018/2019;05403;Perugia Stranieri;public    ;U;M;379
+2018/2019;05601;Tuscia;public    ;U;F;3842
+2018/2019;05601;Tuscia;public    ;U;M;3886
+2018/2019;05801;Roma La Sapienza;public    ;U;F;58364
+2018/2019;05802;Roma Tor Vergata;public    ;U;F;14464
+2018/2019;02701;Venezia Cà Foscari;public    ;U;F;13358
+2018/2019;00101;Torino;public    ;U;F;44564
+2018/2019;05201;Siena;public    ;U;M;6422
+2018/2019;03201;Trieste;public    ;U;F;8625
+2018/2019;05802;Roma Tor Vergata;public    ;U;M;13249
+2018/2019;02702;Venezia Iuav;public    ;U;M;1803
+2018/2019;02801;Padova;public    ;U;F;30956
+2018/2019;02801;Padova;public    ;U;M;27633
+2018/2019;04301;Macerata;public    ;U;F;7426
+2018/2019;03001;Udine;public    ;U;M;7108
+2018/2019;02702;Venezia Iuav;public    ;U;F;2133
+2018/2019;03201;Trieste;public    ;U;M;6663
+2018/2019;03401;Parma;public    ;U;F;14699
+2018/2019;03401;Parma;public    ;U;M;10999
+2018/2019;03601;Modena e Reggio Emilia;public    ;U;M;11681
+2018/2019;03701;Bologna;public    ;U;F;44682
+2018/2019;03701;Bologna;public    ;U;M;35352
+2018/2019;03801;Ferrara;public    ;U;F;11805
+2018/2019;03801;Ferrara;public    ;U;M;8494
+2018/2019;04101;Urbino;public    ;U;F;8798
+2018/2019;04101;Urbino;public    ;U;M;5388
+2018/2019;04201;Marche;public    ;P;F;6715
+2018/2019;03601;Modena e Reggio Emilia;public    ;U;F;13259
+2018/2019;03001;Udine;public    ;U;F;7738
+2018/2019;04201;Marche;public    ;P;M;8282
+2017/2018;05816;Roma San Raffaele - telematica;private   ;UT;F;1834
+2017/2018;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;278
+2017/2018;06201;Sannio;public    ;U;M;2347
+2017/2018;06201;Sannio;public    ;U;F;2484
+2017/2018;06001;Cassino;public    ;U;M;3346
+2017/2018;06001;Cassino;public    ;U;F;3884
+2017/2018;05817;Roma Link Campus;private   ;U;M;1352
+2017/2018;05816;Roma San Raffaele - telematica;private   ;UT;M;2394
+2017/2018;05817;Roma Link Campus;private   ;U;F;525
+2017/2018;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;539
+2017/2018;06301;Napoli Federico II;public    ;U;F;41414
+2017/2018;06301;Napoli Federico II;public    ;U;M;33732
+2017/2018;06302;Napoli Parthenope;public    ;U;F;5199
+2017/2018;06302;Napoli Parthenope;public    ;U;M;6849
+2017/2018;06303;Napoli L'Orientale;public    ;U;F;8815
+2017/2018;06303;Napoli L'Orientale;public    ;U;M;2368
+2017/2018;06304;Napoli Benincasa;private   ;U;F;7026
+2017/2018;05803;Roma LUMSA;private   ;U;M;1746
+2017/2018;06306;Napoli Vanvitelli;public    ;U;F;14292
+2017/2018;05810;Roma Marconi - telematica;private   ;UT;F;4407
+2017/2018;06306;Napoli Vanvitelli;public    ;U;M;10371
+2017/2018;06304;Napoli Benincasa;private   ;U;M;1207
+2017/2018;05810;Roma Marconi - telematica;private   ;UT;M;4758
+2017/2018;07601;Basilicata;public    ;U;M;2809
+2017/2018;06307;Napoli Pegaso - telematica;private   ;UT;F;11718
+2017/2018;05805;Roma LUISS;private   ;U;M;4899
+2017/2018;05806;Roma Foro Italico;public    ;U;F;572
+2017/2018;05806;Roma Foro Italico;public    ;U;M;1601
+2017/2018;05807;Roma Tre;public    ;U;F;18846
+2017/2018;05807;Roma Tre;public    ;U;M;13074
+2017/2018;05808;Roma Biomedico;private   ;U;F;1088
+2017/2018;05808;Roma Biomedico;private   ;U;M;693
+2017/2018;05811;Roma UNITELMA - telematica;private   ;UT;F;787
+2017/2018;05809;Roma UNINT;private   ;U;M;298
+2017/2018;05815;Roma UNICUSANO - telematica;private   ;UT;M;12960
+2017/2018;05811;Roma UNITELMA - telematica;private   ;UT;M;855
+2017/2018;05812;Roma Europea;private   ;U;F;667
+2017/2018;05812;Roma Europea;private   ;U;M;337
+2017/2018;05813;Roma UNINETTUNO - telematica;private   ;UT;F;4534
+2017/2018;05813;Roma UNINETTUNO - telematica;private   ;UT;M;6982
+2017/2018;05814;Roma  Mercatorum - telematica;private   ;UT;F;394
+2017/2018;05814;Roma  Mercatorum - telematica;private   ;UT;M;1543
+2017/2018;05815;Roma UNICUSANO - telematica;private   ;UT;F;8720
+2017/2018;05805;Roma LUISS;private   ;U;F;4143
+2017/2018;05809;Roma UNINT;private   ;U;F;1005
+2017/2018;08601;Enna KORE;private   ;U;F;3326
+2017/2018;07501;Salento;public    ;U;M;6199
+2017/2018;07901;Catanzaro;public    ;U;F;6292
+2017/2018;07901;Catanzaro;public    ;U;M;4105
+2017/2018;08001;Reggio Calabria;public    ;U;F;2629
+2017/2018;08001;Reggio Calabria;public    ;U;M;2644
+2017/2018;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;710
+2017/2018;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;151
+2017/2018;08201;Palermo;public    ;U;F;22800
+2017/2018;08201;Palermo;public    ;U;M;16512
+2017/2018;07801;Calabria;public    ;U;F;15035
+2017/2018;08301;Messina;public    ;U;M;8581
+2017/2018;07601;Basilicata;public    ;U;F;3759
+2017/2018;08601;Enna KORE;private   ;U;M;1855
+2017/2018;08701;Catania;public    ;U;F;24328
+2017/2018;08701;Catania;public    ;U;M;17597
+2017/2018;09001;Sassari;public    ;U;F;8313
+2017/2018;09001;Sassari;public    ;U;M;4775
+2017/2018;09201;Cagliari;public    ;U;F;14718
+2017/2018;09201;Cagliari;public    ;U;M;10361
+2017/2018;05803;Roma LUMSA;private   ;U;F;3896
+2017/2018;05403;Perugia Stranieri;public    ;U;M;324
+2017/2018;08301;Messina;public    ;U;F;14294
+2017/2018;07001;Molise;public    ;U;M;2797
+2017/2018;06501;Salerno;public    ;U;F;20175
+2017/2018;06501;Salerno;public    ;U;M;15322
+2017/2018;06601;L'Aquila;public    ;U;F;9096
+2017/2018;06601;L'Aquila;public    ;U;M;7055
+2017/2018;06701;Teramo;public    ;U;F;3335
+2017/2018;06701;Teramo;public    ;U;M;2496
+2017/2018;06901;Chieti e Pescara;public    ;U;F;15397
+2017/2018;06901;Chieti e Pescara;public    ;U;M;8797
+2017/2018;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;55
+2017/2018;07801;Calabria;public    ;U;M;10929
+2017/2018;07001;Molise;public    ;U;F;4097
+2017/2018;06307;Napoli Pegaso - telematica;private   ;UT;M;18116
+2017/2018;07101;Foggia;public    ;U;F;6314
+2017/2018;07101;Foggia;public    ;U;M;3844
+2017/2018;07201;Bari;public    ;U;F;26889
+2017/2018;07201;Bari;public    ;U;M;16160
+2017/2018;07202;Bari Politecnico;public    ;P;F;3038
+2017/2018;07202;Bari Politecnico;public    ;P;M;6691
+2017/2018;07203;Casamassima - J.Monnet;private   ;U;F;601
+2017/2018;07203;Casamassima - J.Monnet;private   ;U;M;947
+2017/2018;07501;Salento;public    ;U;F;10374
+2017/2018;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;45
+2017/2018;01601;Bergamo;public    ;U;F;11138
+2017/2018;02301;Verona;public    ;U;F;15107
+2017/2018;01504;Milano Cattolica;private   ;U;F;25033
+2017/2018;01504;Milano Cattolica;private   ;U;M;13451
+2017/2018;01505;Milano IULM;private   ;U;F;4063
+2017/2018;01505;Milano IULM;private   ;U;M;1669
+2017/2018;01508;Milano San Raffaele;private   ;U;F;1577
+2017/2018;01508;Milano San Raffaele;private   ;U;M;1024
+2017/2018;01509;Milano Bicocca;public    ;U;F;20202
+2017/2018;01509;Milano Bicocca;public    ;U;M;12937
+2017/2018;01503;Milano Bocconi;private   ;U;F;5897
+2017/2018;01510;Rozzano (MI) Humanitas University;private   ;U;M;286
+2017/2018;01502;Milano Politecnico;public    ;P;M;29371
+2017/2018;01601;Bergamo;public    ;U;M;6948
+2017/2018;01701;Brescia;public    ;U;F;6394
+2017/2018;01701;Brescia;public    ;U;M;7543
+2017/2018;01801;Pavia;public    ;U;F;12148
+2017/2018;01801;Pavia;public    ;U;M;9818
+2017/2018;02101;Bolzano;public    ;U;F;2502
+2017/2018;02101;Bolzano;public    ;U;M;1177
+2017/2018;02201;Trento;public    ;U;F;8159
+2017/2018;02201;Trento;public    ;U;M;8055
+2017/2018;01510;Rozzano (MI) Humanitas University;private   ;U;F;435
+2017/2018;01001;Genova;public    ;U;M;14513
+2017/2018;05802;Roma Tor Vergata;public    ;U;M;13791
+2017/2018;05601;Tuscia;public    ;U;M;4140
+2017/2018;00101;Torino;public    ;U;M;28045
+2017/2018;00102;Torino Politecnico;public    ;P;M;22874
+2017/2018;00201;Piemonte Orientale;public    ;U;F;7383
+2017/2018;00201;Piemonte Orientale;public    ;U;M;4743
+2017/2018;00401;Bra Scienze Gastronomiche;private   ;U;F;161
+2017/2018;00401;Bra Scienze Gastronomiche;private   ;U;M;179
+2017/2018;00701;Aosta;public    ;U;F;751
+2017/2018;01503;Milano Bocconi;private   ;U;M;7503
+2017/2018;01001;Genova;public    ;U;F;17469
+2017/2018;00102;Torino Politecnico;public    ;P;F;8951
+2017/2018;01201;Castellanza LIUC;private   ;U;F;744
+2017/2018;01201;Castellanza LIUC;private   ;U;M;1366
+2017/2018;01202;Insubria;public    ;U;F;5396
+2017/2018;01202;Insubria;public    ;U;M;4644
+2017/2018;01301;Novedrate e-Campus - telematica;private   ;UT;F;5701
+2017/2018;01301;Novedrate e-Campus - telematica;private   ;UT;M;5672
+2017/2018;01501;Milano;public    ;U;F;35160
+2017/2018;01501;Milano;public    ;U;M;25320
+2017/2018;01502;Milano Politecnico;public    ;P;F;14571
+2017/2018;00701;Aosta;public    ;U;M;301
+2017/2018;05202;Siena Stranieri;public    ;U;F;1662
+2017/2018;04301;Macerata;public    ;U;M;2769
+2017/2018;04302;Camerino;public    ;U;F;3377
+2017/2018;04302;Camerino;public    ;U;M;3360
+2017/2018;04801;Firenze;public    ;U;F;30283
+2017/2018;04801;Firenze;public    ;U;M;21363
+2017/2018;04804;Firenze IUL - telematica;private   ;UT;F;159
+2017/2018;04804;Firenze IUL - telematica;private   ;UT;M;65
+2017/2018;05801;Roma La Sapienza;public    ;U;F;57296
+2017/2018;04301;Macerata;public    ;U;F;7268
+2017/2018;05201;Siena;public    ;U;M;6582
+2017/2018;05001;Pisa;public    ;U;F;22648
+2017/2018;05202;Siena Stranieri;public    ;U;M;400
+2017/2018;05401;Perugia;public    ;U;F;13103
+2017/2018;05401;Perugia;public    ;U;M;9876
+2017/2018;05403;Perugia Stranieri;public    ;U;F;617
+2017/2018;05601;Tuscia;public    ;U;F;3944
+2017/2018;00101;Torino;public    ;U;F;43472
+2017/2018;05801;Roma La Sapienza;public    ;U;M;43000
+2017/2018;05802;Roma Tor Vergata;public    ;U;F;14704
+2017/2018;02301;Verona;public    ;U;M;8340
+2017/2018;05001;Pisa;public    ;U;M;21624
+2017/2018;02702;Venezia Iuav;public    ;U;M;1875
+2017/2018;02701;Venezia Cà Foscari;public    ;U;F;13103
+2017/2018;02701;Venezia Cà Foscari;public    ;U;M;7222
+2017/2018;05201;Siena;public    ;U;F;9125
+2017/2018;02702;Venezia Iuav;public    ;U;F;2092
+2017/2018;04201;Marche;public    ;P;M;8338
+2017/2018;02801;Padova;public    ;U;F;30672
+2017/2018;02801;Padova;public    ;U;M;27230
+2017/2018;03001;Udine;public    ;U;F;7703
+2017/2018;03001;Udine;public    ;U;M;7180
+2017/2018;03201;Trieste;public    ;U;F;8424
+2017/2018;03201;Trieste;public    ;U;M;6682
+2017/2018;03801;Ferrara;public    ;U;M;7843
+2017/2018;03401;Parma;public    ;U;F;13961
+2017/2018;04101;Urbino;public    ;U;M;5399
+2017/2018;04101;Urbino;public    ;U;F;8682
+2017/2018;03801;Ferrara;public    ;U;F;10546
+2017/2018;03701;Bologna;public    ;U;M;35357
+2017/2018;03701;Bologna;public    ;U;F;44072
+2017/2018;03601;Modena e Reggio Emilia;public    ;U;M;11229
+2017/2018;03601;Modena e Reggio Emilia;public    ;U;F;12515
+2017/2018;03401;Parma;public    ;U;M;10775
+2017/2018;04201;Marche;public    ;P;F;6853
+2016/2017;05815;Roma UNICUSANO - telematica;private   ;UT;M;12384
+2016/2017;06302;Napoli Parthenope;public    ;U;M;7324
+2016/2017;06201;Sannio;public    ;U;F;2658
+2016/2017;05816;Roma San Raffaele - telematica;private   ;UT;M;1742
+2016/2017;05817;Roma Link Campus;private   ;U;F;550
+2016/2017;05817;Roma Link Campus;private   ;U;M;1238
+2016/2017;06001;Cassino;public    ;U;F;4099
+2016/2017;06001;Cassino;public    ;U;M;3495
+2016/2017;05816;Roma San Raffaele - telematica;private   ;UT;F;1311
+2016/2017;06201;Sannio;public    ;U;M;2496
+2016/2017;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;283
+2016/2017;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;497
+2016/2017;06301;Napoli Federico II;public    ;U;F;42391
+2016/2017;06306;Napoli Vanvitelli;public    ;U;F;14763
+2016/2017;06302;Napoli Parthenope;public    ;U;F;5596
+2016/2017;06303;Napoli L'Orientale;public    ;U;F;8546
+2016/2017;06304;Napoli Benincasa;private   ;U;F;6986
+2016/2017;06306;Napoli Vanvitelli;public    ;U;M;10594
+2016/2017;05815;Roma UNICUSANO - telematica;private   ;UT;F;8223
+2016/2017;06301;Napoli Federico II;public    ;U;M;34313
+2016/2017;05809;Roma UNINT;private   ;U;F;1028
+2016/2017;05803;Roma LUMSA;private   ;U;F;3849
+2016/2017;07501;Salento;public    ;U;M;6110
+2016/2017;05803;Roma LUMSA;private   ;U;M;1767
+2016/2017;06307;Napoli Pegaso - telematica;private   ;UT;F;7353
+2016/2017;05805;Roma LUISS;private   ;U;M;4682
+2016/2017;05806;Roma Foro Italico;public    ;U;F;581
+2016/2017;05806;Roma Foro Italico;public    ;U;M;1611
+2016/2017;05807;Roma Tre;public    ;U;F;19045
+2016/2017;05807;Roma Tre;public    ;U;M;13337
+2016/2017;05805;Roma LUISS;private   ;U;F;3983
+2016/2017;05808;Roma Biomedico;private   ;U;M;678
+2016/2017;05814;Roma  Mercatorum - telematica;private   ;UT;M;505
+2016/2017;05809;Roma UNINT;private   ;U;M;324
+2016/2017;05810;Roma Marconi - telematica;private   ;UT;F;4317
+2016/2017;05810;Roma Marconi - telematica;private   ;UT;M;5121
+2016/2017;05811;Roma UNITELMA - telematica;private   ;UT;F;676
+2016/2017;05811;Roma UNITELMA - telematica;private   ;UT;M;817
+2016/2017;05812;Roma Europea;private   ;U;F;526
+2016/2017;05812;Roma Europea;private   ;U;M;314
+2016/2017;05813;Roma UNINETTUNO - telematica;private   ;UT;F;4066
+2016/2017;05813;Roma UNINETTUNO - telematica;private   ;UT;M;6454
+2016/2017;05814;Roma  Mercatorum - telematica;private   ;UT;F;221
+2016/2017;05808;Roma Biomedico;private   ;U;F;1005
+2016/2017;08301;Messina;public    ;U;M;8501
+2016/2017;07203;Casamassima - J.Monnet;private   ;U;M;847
+2016/2017;07801;Calabria;public    ;U;M;10970
+2016/2017;07901;Catanzaro;public    ;U;F;6214
+2016/2017;07901;Catanzaro;public    ;U;M;4066
+2016/2017;08001;Reggio Calabria;public    ;U;F;2941
+2016/2017;08001;Reggio Calabria;public    ;U;M;2900
+2016/2017;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;795
+2016/2017;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;158
+2016/2017;08201;Palermo;public    ;U;F;23209
+2016/2017;07601;Basilicata;public    ;U;M;2867
+2016/2017;08301;Messina;public    ;U;F;14325
+2016/2017;07601;Basilicata;public    ;U;F;3819
+2016/2017;08601;Enna KORE;private   ;U;F;3498
+2016/2017;08601;Enna KORE;private   ;U;M;2016
+2016/2017;08701;Catania;public    ;U;F;25359
+2016/2017;08701;Catania;public    ;U;M;17841
+2016/2017;09001;Sassari;public    ;U;F;8144
+2016/2017;09001;Sassari;public    ;U;M;4707
+2016/2017;05802;Roma Tor Vergata;public    ;U;M;14419
+2016/2017;06303;Napoli L'Orientale;public    ;U;M;2369
+2016/2017;09201;Cagliari;public    ;U;M;10574
+2016/2017;08201;Palermo;public    ;U;M;16619
+2016/2017;07001;Molise;public    ;U;M;2851
+2016/2017;06501;Salerno;public    ;U;F;20353
+2016/2017;06501;Salerno;public    ;U;M;14903
+2016/2017;06601;L'Aquila;public    ;U;F;9596
+2016/2017;06601;L'Aquila;public    ;U;M;7409
+2016/2017;06701;Teramo;public    ;U;F;3518
+2016/2017;06701;Teramo;public    ;U;M;2555
+2016/2017;06901;Chieti e Pescara;public    ;U;F;15862
+2016/2017;06901;Chieti e Pescara;public    ;U;M;9056
+2016/2017;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;85
+2016/2017;07801;Calabria;public    ;U;F;15470
+2016/2017;07001;Molise;public    ;U;F;4084
+2016/2017;06307;Napoli Pegaso - telematica;private   ;UT;M;12879
+2016/2017;07101;Foggia;public    ;U;F;5991
+2016/2017;07101;Foggia;public    ;U;M;3755
+2016/2017;07201;Bari;public    ;U;F;27473
+2016/2017;07201;Bari;public    ;U;M;16592
+2016/2017;07202;Bari Politecnico;public    ;P;F;2995
+2016/2017;07202;Bari Politecnico;public    ;P;M;6623
+2016/2017;07203;Casamassima - J.Monnet;private   ;U;F;519
+2016/2017;09201;Cagliari;public    ;U;F;15289
+2016/2017;07501;Salento;public    ;U;F;10416
+2016/2017;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;68
+2016/2017;01601;Bergamo;public    ;U;F;10424
+2016/2017;02301;Verona;public    ;U;F;14749
+2016/2017;01504;Milano Cattolica;private   ;U;F;23895
+2016/2017;01504;Milano Cattolica;private   ;U;M;13239
+2016/2017;01505;Milano IULM;private   ;U;F;3710
+2016/2017;01505;Milano IULM;private   ;U;M;1500
+2016/2017;01508;Milano San Raffaele;private   ;U;F;1466
+2016/2017;01508;Milano San Raffaele;private   ;U;M;995
+2016/2017;01509;Milano Bicocca;public    ;U;F;20001
+2016/2017;01509;Milano Bicocca;public    ;U;M;12697
+2016/2017;01503;Milano Bocconi;private   ;U;F;6114
+2016/2017;01510;Rozzano (MI) Humanitas University;private   ;U;M;209
+2016/2017;01502;Milano Politecnico;public    ;P;M;28655
+2016/2017;01601;Bergamo;public    ;U;M;6369
+2016/2017;01701;Brescia;public    ;U;F;6362
+2016/2017;01701;Brescia;public    ;U;M;7498
+2016/2017;01801;Pavia;public    ;U;F;11794
+2016/2017;01801;Pavia;public    ;U;M;9524
+2016/2017;02101;Bolzano;public    ;U;F;2247
+2016/2017;02101;Bolzano;public    ;U;M;1046
+2016/2017;02201;Trento;public    ;U;F;8114
+2016/2017;02201;Trento;public    ;U;M;8000
+2016/2017;01510;Rozzano (MI) Humanitas University;private   ;U;F;312
+2016/2017;01001;Genova;public    ;U;M;14227
+2016/2017;06304;Napoli Benincasa;private   ;U;M;1174
+2016/2017;05802;Roma Tor Vergata;public    ;U;F;15119
+2016/2017;00101;Torino;public    ;U;M;26572
+2016/2017;00102;Torino Politecnico;public    ;P;M;22263
+2016/2017;00201;Piemonte Orientale;public    ;U;F;7146
+2016/2017;00201;Piemonte Orientale;public    ;U;M;4588
+2016/2017;00401;Bra Scienze Gastronomiche;private   ;U;F;153
+2016/2017;00401;Bra Scienze Gastronomiche;private   ;U;M;166
+2016/2017;00701;Aosta;public    ;U;F;770
+2016/2017;01503;Milano Bocconi;private   ;U;M;7126
+2016/2017;01001;Genova;public    ;U;F;17188
+2016/2017;00102;Torino Politecnico;public    ;P;F;8742
+2016/2017;01201;Castellanza LIUC;private   ;U;F;729
+2016/2017;01201;Castellanza LIUC;private   ;U;M;1311
+2016/2017;01202;Insubria;public    ;U;F;5058
+2016/2017;01202;Insubria;public    ;U;M;4274
+2016/2017;01301;Novedrate e-Campus - telematica;private   ;UT;F;4509
+2016/2017;01301;Novedrate e-Campus - telematica;private   ;UT;M;4577
+2016/2017;01501;Milano;public    ;U;F;34801
+2016/2017;01501;Milano;public    ;U;M;24729
+2016/2017;01502;Milano Politecnico;public    ;P;F;14118
+2016/2017;00701;Aosta;public    ;U;M;289
+2016/2017;05202;Siena Stranieri;public    ;U;F;1527
+2016/2017;04301;Macerata;public    ;U;M;2888
+2016/2017;04302;Camerino;public    ;U;F;3448
+2016/2017;04302;Camerino;public    ;U;M;3443
+2016/2017;04801;Firenze;public    ;U;F;30002
+2016/2017;04801;Firenze;public    ;U;M;20962
+2016/2017;04804;Firenze IUL - telematica;private   ;UT;F;148
+2016/2017;04804;Firenze IUL - telematica;private   ;UT;M;47
+2016/2017;05001;Pisa;public    ;U;F;23217
+2016/2017;05601;Tuscia;public    ;U;M;4099
+2016/2017;04301;Macerata;public    ;U;F;7280
+2016/2017;02301;Verona;public    ;U;M;8326
+2016/2017;05001;Pisa;public    ;U;M;21953
+2016/2017;05202;Siena Stranieri;public    ;U;M;345
+2016/2017;05401;Perugia;public    ;U;F;13027
+2016/2017;05401;Perugia;public    ;U;M;9913
+2016/2017;05403;Perugia Stranieri;public    ;U;F;551
+2016/2017;05403;Perugia Stranieri;public    ;U;M;330
+2016/2017;05601;Tuscia;public    ;U;F;3897
+2016/2017;05801;Roma La Sapienza;public    ;U;F;57512
+2016/2017;05801;Roma La Sapienza;public    ;U;M;42894
+2016/2017;00101;Torino;public    ;U;F;41736
+2016/2017;05201;Siena;public    ;U;F;8935
+2016/2017;02702;Venezia Iuav;public    ;U;F;2135
+2016/2017;02701;Venezia Cà Foscari;public    ;U;F;12842
+2016/2017;05201;Siena;public    ;U;M;6496
+2016/2017;02701;Venezia Cà Foscari;public    ;U;M;6969
+2016/2017;04201;Marche;public    ;P;M;8326
+2016/2017;02702;Venezia Iuav;public    ;U;M;1960
+2016/2017;02801;Padova;public    ;U;F;30841
+2016/2017;02801;Padova;public    ;U;M;26978
+2016/2017;03001;Udine;public    ;U;F;7748
+2016/2017;03001;Udine;public    ;U;M;7249
+2016/2017;03201;Trieste;public    ;U;F;8238
+2016/2017;03201;Trieste;public    ;U;M;6561
+2016/2017;04101;Urbino;public    ;U;F;8528
+2016/2017;03401;Parma;public    ;U;F;13358
+2016/2017;04101;Urbino;public    ;U;M;5342
+2016/2017;03801;Ferrara;public    ;U;M;6956
+2016/2017;03801;Ferrara;public    ;U;F;8593
+2016/2017;03701;Bologna;public    ;U;M;34970
+2016/2017;03701;Bologna;public    ;U;F;43486
+2016/2017;03601;Modena e Reggio Emilia;public    ;U;M;10418
+2016/2017;03601;Modena e Reggio Emilia;public    ;U;F;11715
+2016/2017;03401;Parma;public    ;U;M;10468
+2016/2017;04201;Marche;public    ;P;F;6984
+2015/2016;05813;Roma UNINETTUNO - telematica;private   ;UT;F;3744
+2015/2016;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;280
+2015/2016;05816;Roma San Raffaele - telematica;private   ;UT;M;1207
+2015/2016;05813;Roma UNINETTUNO - telematica;private   ;UT;M;6076
+2015/2016;05814;Roma  Mercatorum - telematica;private   ;UT;F;112
+2015/2016;05814;Roma  Mercatorum - telematica;private   ;UT;M;171
+2015/2016;05815;Roma UNICUSANO - telematica;private   ;UT;F;6897
+2015/2016;05815;Roma UNICUSANO - telematica;private   ;UT;M;10365
+2015/2016;05816;Roma San Raffaele - telematica;private   ;UT;F;836
+2015/2016;05817;Roma Link Campus;private   ;U;F;549
+2015/2016;05817;Roma Link Campus;private   ;U;M;1200
+2015/2016;06001;Cassino;public    ;U;F;4270
+2015/2016;06001;Cassino;public    ;U;M;3555
+2015/2016;06302;Napoli Parthenope;public    ;U;F;6082
+2015/2016;06201;Sannio;public    ;U;M;2675
+2015/2016;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;465
+2015/2016;06301;Napoli Federico II;public    ;U;F;43330
+2015/2016;06301;Napoli Federico II;public    ;U;M;34534
+2015/2016;06302;Napoli Parthenope;public    ;U;M;7659
+2015/2016;06201;Sannio;public    ;U;F;2804
+2015/2016;05807;Roma Tre;public    ;U;M;13790
+2015/2016;05801;Roma La Sapienza;public    ;U;F;57463
+2015/2016;07201;Bari;public    ;U;F;28988
+2015/2016;05801;Roma La Sapienza;public    ;U;M;42348
+2015/2016;05802;Roma Tor Vergata;public    ;U;M;14454
+2015/2016;05803;Roma LUMSA;private   ;U;F;4066
+2015/2016;05803;Roma LUMSA;private   ;U;M;1817
+2015/2016;05805;Roma LUISS;private   ;U;F;3857
+2015/2016;05805;Roma LUISS;private   ;U;M;4254
+2015/2016;05806;Roma Foro Italico;public    ;U;F;617
+2015/2016;05802;Roma Tor Vergata;public    ;U;F;15216
+2015/2016;05807;Roma Tre;public    ;U;F;20109
+2015/2016;05812;Roma Europea;private   ;U;M;300
+2015/2016;05808;Roma Biomedico;private   ;U;F;1015
+2015/2016;05808;Roma Biomedico;private   ;U;M;665
+2015/2016;05809;Roma UNINT;private   ;U;F;1057
+2015/2016;05809;Roma UNINT;private   ;U;M;347
+2015/2016;05810;Roma Marconi - telematica;private   ;UT;F;4129
+2015/2016;05810;Roma Marconi - telematica;private   ;UT;M;5400
+2015/2016;05811;Roma UNITELMA - telematica;private   ;UT;F;676
+2015/2016;05811;Roma UNITELMA - telematica;private   ;UT;M;813
+2015/2016;05812;Roma Europea;private   ;U;F;461
+2015/2016;05806;Roma Foro Italico;public    ;U;M;1613
+2015/2016;07901;Catanzaro;public    ;U;M;4149
+2015/2016;07101;Foggia;public    ;U;F;5725
+2015/2016;07203;Casamassima - J.Monnet;private   ;U;F;464
+2015/2016;07203;Casamassima - J.Monnet;private   ;U;M;773
+2015/2016;07501;Salento;public    ;U;F;10645
+2015/2016;07501;Salento;public    ;U;M;6273
+2015/2016;07601;Basilicata;public    ;U;F;3943
+2015/2016;07601;Basilicata;public    ;U;M;2969
+2015/2016;07801;Calabria;public    ;U;F;16001
+2015/2016;07202;Bari Politecnico;public    ;P;F;3038
+2015/2016;07901;Catanzaro;public    ;U;F;6157
+2015/2016;07201;Bari;public    ;U;M;17222
+2015/2016;08001;Reggio Calabria;public    ;U;F;3158
+2015/2016;08001;Reggio Calabria;public    ;U;M;3092
+2015/2016;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;801
+2015/2016;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;161
+2015/2016;08201;Palermo;public    ;U;F;23619
+2015/2016;08201;Palermo;public    ;U;M;16561
+2015/2016;08301;Messina;public    ;U;M;8756
+2015/2016;05601;Tuscia;public    ;U;M;3964
+2015/2016;02101;Bolzano;public    ;U;F;2072
+2015/2016;07801;Calabria;public    ;U;M;11126
+2015/2016;06601;L'Aquila;public    ;U;M;7718
+2015/2016;06303;Napoli L'Orientale;public    ;U;M;2364
+2015/2016;06304;Napoli Benincasa;private   ;U;F;6962
+2015/2016;06304;Napoli Benincasa;private   ;U;M;1159
+2015/2016;06306;Napoli Vanvitelli;public    ;U;F;15027
+2015/2016;06306;Napoli Vanvitelli;public    ;U;M;10807
+2015/2016;06307;Napoli Pegaso - telematica;private   ;UT;F;4960
+2015/2016;06307;Napoli Pegaso - telematica;private   ;UT;M;8299
+2015/2016;06501;Salerno;public    ;U;F;20568
+2015/2016;07202;Bari Politecnico;public    ;P;M;6713
+2015/2016;06601;L'Aquila;public    ;U;F;10370
+2015/2016;06303;Napoli L'Orientale;public    ;U;F;8282
+2015/2016;06701;Teramo;public    ;U;F;3593
+2015/2016;06701;Teramo;public    ;U;M;2559
+2015/2016;06901;Chieti e Pescara;public    ;U;F;16508
+2015/2016;06901;Chieti e Pescara;public    ;U;M;9227
+2015/2016;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;80
+2015/2016;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;55
+2015/2016;07001;Molise;public    ;U;F;4085
+2015/2016;07001;Molise;public    ;U;M;2853
+2015/2016;07101;Foggia;public    ;U;M;3519
+2015/2016;06501;Salerno;public    ;U;M;14230
+2015/2016;01509;Milano Bicocca;public    ;U;M;12386
+2015/2016;01502;Milano Politecnico;public    ;P;M;27645
+2015/2016;01503;Milano Bocconi;private   ;U;F;6278
+2015/2016;01503;Milano Bocconi;private   ;U;M;6938
+2015/2016;01504;Milano Cattolica;private   ;U;F;23394
+2015/2016;01504;Milano Cattolica;private   ;U;M;13098
+2015/2016;01505;Milano IULM;private   ;U;F;3304
+2015/2016;01505;Milano IULM;private   ;U;M;1350
+2015/2016;01508;Milano San Raffaele;private   ;U;F;1374
+2015/2016;02201;Trento;public    ;U;F;8233
+2015/2016;01509;Milano Bicocca;public    ;U;F;19666
+2015/2016;01501;Milano;public    ;U;F;35398
+2015/2016;01510;Rozzano (MI) Humanitas University;private   ;U;F;214
+2015/2016;01510;Rozzano (MI) Humanitas University;private   ;U;M;130
+2015/2016;01601;Bergamo;public    ;U;F;9830
+2015/2016;01601;Bergamo;public    ;U;M;5799
+2015/2016;01701;Brescia;public    ;U;F;6489
+2015/2016;01701;Brescia;public    ;U;M;7447
+2015/2016;01801;Pavia;public    ;U;F;11657
+2015/2016;01801;Pavia;public    ;U;M;9355
+2015/2016;01508;Milano San Raffaele;private   ;U;M;950
+2015/2016;00701;Aosta;public    ;U;M;314
+2015/2016;08601;Enna KORE;private   ;U;F;3563
+2015/2016;00101;Torino;public    ;U;F;40630
+2015/2016;00101;Torino;public    ;U;M;25577
+2015/2016;00102;Torino Politecnico;public    ;P;F;8689
+2015/2016;00102;Torino Politecnico;public    ;P;M;21810
+2015/2016;00201;Piemonte Orientale;public    ;U;F;6557
+2015/2016;00201;Piemonte Orientale;public    ;U;M;4206
+2015/2016;00401;Bra Scienze Gastronomiche;private   ;U;F;167
+2015/2016;01502;Milano Politecnico;public    ;P;F;13511
+2015/2016;00701;Aosta;public    ;U;F;804
+2015/2016;01501;Milano;public    ;U;M;24809
+2015/2016;01001;Genova;public    ;U;F;17115
+2015/2016;01001;Genova;public    ;U;M;14141
+2015/2016;01201;Castellanza LIUC;private   ;U;F;692
+2015/2016;01201;Castellanza LIUC;private   ;U;M;1259
+2015/2016;01202;Insubria;public    ;U;F;4874
+2015/2016;01202;Insubria;public    ;U;M;3998
+2015/2016;01301;Novedrate e-Campus - telematica;private   ;UT;F;3849
+2015/2016;01301;Novedrate e-Campus - telematica;private   ;UT;M;4010
+2015/2016;02301;Verona;public    ;U;F;14565
+2015/2016;00401;Bra Scienze Gastronomiche;private   ;U;M;155
+2015/2016;05001;Pisa;public    ;U;F;23174
+2015/2016;02101;Bolzano;public    ;U;M;956
+2015/2016;04201;Marche;public    ;P;M;8548
+2015/2016;04301;Macerata;public    ;U;F;7124
+2015/2016;04301;Macerata;public    ;U;M;2848
+2015/2016;04302;Camerino;public    ;U;F;3310
+2015/2016;04302;Camerino;public    ;U;M;3087
+2015/2016;04801;Firenze;public    ;U;F;29607
+2015/2016;04801;Firenze;public    ;U;M;20632
+2015/2016;04101;Urbino;public    ;U;M;5343
+2015/2016;04804;Firenze IUL - telematica;private   ;UT;M;18
+2015/2016;04101;Urbino;public    ;U;F;8438
+2015/2016;05001;Pisa;public    ;U;M;21813
+2015/2016;05201;Siena;public    ;U;F;8927
+2015/2016;05201;Siena;public    ;U;M;6495
+2015/2016;05202;Siena Stranieri;public    ;U;F;1312
+2015/2016;05202;Siena Stranieri;public    ;U;M;317
+2015/2016;05401;Perugia;public    ;U;F;12031
+2015/2016;05401;Perugia;public    ;U;M;9490
+2015/2016;05403;Perugia Stranieri;public    ;U;F;527
+2015/2016;05403;Perugia Stranieri;public    ;U;M;365
+2015/2016;04804;Firenze IUL - telematica;private   ;UT;F;90
+2015/2016;03201;Trieste;public    ;U;F;8459
+2015/2016;05601;Tuscia;public    ;U;F;3856
+2015/2016;02301;Verona;public    ;U;M;8069
+2015/2016;02701;Venezia Cà Foscari;public    ;U;F;12802
+2015/2016;02701;Venezia Cà Foscari;public    ;U;M;6948
+2015/2016;02702;Venezia Iuav;public    ;U;F;2164
+2015/2016;02702;Venezia Iuav;public    ;U;M;2054
+2015/2016;02801;Padova;public    ;U;F;31556
+2015/2016;02801;Padova;public    ;U;M;26937
+2015/2016;04201;Marche;public    ;P;F;7062
+2015/2016;03001;Udine;public    ;U;M;7191
+2015/2016;02201;Trento;public    ;U;M;7949
+2015/2016;03201;Trieste;public    ;U;M;6558
+2015/2016;03401;Parma;public    ;U;F;12857
+2015/2016;03401;Parma;public    ;U;M;10103
+2015/2016;03601;Modena e Reggio Emilia;public    ;U;F;10998
+2015/2016;03601;Modena e Reggio Emilia;public    ;U;M;9807
+2015/2016;03701;Bologna;public    ;U;F;43222
+2015/2016;03701;Bologna;public    ;U;M;34522
+2015/2016;03801;Ferrara;public    ;U;F;8446
+2015/2016;03801;Ferrara;public    ;U;M;7055
+2015/2016;03001;Udine;public    ;U;F;7643
+2015/2016;08301;Messina;public    ;U;F;14901
+2015/2016;08601;Enna KORE;private   ;U;M;2226
+2015/2016;08701;Catania;public    ;U;F;26742
+2015/2016;08701;Catania;public    ;U;M;18203
+2015/2016;09001;Sassari;public    ;U;F;7863
+2015/2016;09001;Sassari;public    ;U;M;4552
+2015/2016;09201;Cagliari;public    ;U;F;15476
+2015/2016;09201;Cagliari;public    ;U;M;10598
+2014/2015;06201;Sannio;public    ;U;M;2757
+2014/2015;06201;Sannio;public    ;U;F;3038
+2014/2015;06001;Cassino;public    ;U;M;3682
+2014/2015;06001;Cassino;public    ;U;F;4507
+2014/2015;05817;Roma Link Campus;private   ;U;M;929
+2014/2015;05817;Roma Link Campus;private   ;U;F;484
+2014/2015;05816;Roma San Raffaele - telematica;private   ;UT;M;858
+2014/2015;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;241
+2014/2015;05815;Roma UNICUSANO - telematica;private   ;UT;M;8585
+2014/2015;06302;Napoli Parthenope;public    ;U;M;8087
+2014/2015;05816;Roma San Raffaele - telematica;private   ;UT;F;531
+2014/2015;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;385
+2014/2015;06301;Napoli Federico II;public    ;U;F;45193
+2014/2015;05815;Roma UNICUSANO - telematica;private   ;UT;F;5670
+2014/2015;06302;Napoli Parthenope;public    ;U;F;6476
+2014/2015;05812;Roma Europea;private   ;U;F;495
+2014/2015;06303;Napoli L'Orientale;public    ;U;F;8076
+2014/2015;06304;Napoli Benincasa;private   ;U;F;6822
+2014/2015;06306;Napoli Vanvitelli;public    ;U;F;15368
+2014/2015;06306;Napoli Vanvitelli;public    ;U;M;10891
+2014/2015;06307;Napoli Pegaso - telematica;private   ;UT;F;3869
+2014/2015;06301;Napoli Federico II;public    ;U;M;35321
+2014/2015;05809;Roma UNINT;private   ;U;M;331
+2014/2015;05803;Roma LUMSA;private   ;U;F;3984
+2014/2015;05803;Roma LUMSA;private   ;U;M;1903
+2014/2015;05805;Roma LUISS;private   ;U;F;3789
+2014/2015;05805;Roma LUISS;private   ;U;M;3911
+2014/2015;05806;Roma Foro Italico;public    ;U;F;650
+2014/2015;05806;Roma Foro Italico;public    ;U;M;1556
+2014/2015;05807;Roma Tre;public    ;U;F;20477
+2014/2015;05807;Roma Tre;public    ;U;M;14274
+2014/2015;05808;Roma Biomedico;private   ;U;F;982
+2014/2015;05813;Roma UNINETTUNO - telematica;private   ;UT;F;3529
+2014/2015;05809;Roma UNINT;private   ;U;F;965
+2014/2015;05814;Roma  Mercatorum - telematica;private   ;UT;M;161
+2014/2015;05810;Roma Marconi - telematica;private   ;UT;F;3477
+2014/2015;05810;Roma Marconi - telematica;private   ;UT;M;5005
+2014/2015;05811;Roma UNITELMA - telematica;private   ;UT;F;742
+2014/2015;05811;Roma UNITELMA - telematica;private   ;UT;M;838
+2014/2015;06701;Teramo;public    ;U;F;3696
+2014/2015;05812;Roma Europea;private   ;U;M;311
+2014/2015;06307;Napoli Pegaso - telematica;private   ;UT;M;6936
+2014/2015;05813;Roma UNINETTUNO - telematica;private   ;UT;M;5713
+2014/2015;05814;Roma  Mercatorum - telematica;private   ;UT;F;103
+2014/2015;05808;Roma Biomedico;private   ;U;M;659
+2014/2015;08301;Messina;public    ;U;F;16243
+2014/2015;07801;Calabria;public    ;U;F;16900
+2014/2015;07801;Calabria;public    ;U;M;11710
+2014/2015;07901;Catanzaro;public    ;U;F;6527
+2014/2015;07901;Catanzaro;public    ;U;M;4193
+2014/2015;08001;Reggio Calabria;public    ;U;F;3438
+2014/2015;08001;Reggio Calabria;public    ;U;M;3371
+2014/2015;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;748
+2014/2015;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;156
+2014/2015;06601;L'Aquila;public    ;U;F;12113
+2014/2015;08201;Palermo;public    ;U;M;17419
+2014/2015;07501;Salento;public    ;U;M;6514
+2014/2015;08301;Messina;public    ;U;M;9254
+2014/2015;08601;Enna KORE;private   ;U;F;3601
+2014/2015;08601;Enna KORE;private   ;U;M;2357
+2014/2015;08701;Catania;public    ;U;F;28030
+2014/2015;08701;Catania;public    ;U;M;18486
+2014/2015;09001;Sassari;public    ;U;F;8224
+2014/2015;09001;Sassari;public    ;U;M;4570
+2014/2015;09201;Cagliari;public    ;U;F;15858
+2014/2015;09201;Cagliari;public    ;U;M;10626
+2014/2015;08201;Palermo;public    ;U;F;25040
+2014/2015;07101;Foggia;public    ;U;F;6030
+2014/2015;06501;Salerno;public    ;U;M;13927
+2014/2015;05802;Roma Tor Vergata;public    ;U;M;14804
+2014/2015;06601;L'Aquila;public    ;U;M;9087
+2014/2015;06303;Napoli L'Orientale;public    ;U;M;2337
+2014/2015;06701;Teramo;public    ;U;M;2585
+2014/2015;06901;Chieti e Pescara;public    ;U;F;17619
+2014/2015;06901;Chieti e Pescara;public    ;U;M;9689
+2014/2015;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;124
+2014/2015;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;83
+2014/2015;07601;Basilicata;public    ;U;M;3014
+2014/2015;07001;Molise;public    ;U;M;2881
+2014/2015;07601;Basilicata;public    ;U;F;4182
+2014/2015;07101;Foggia;public    ;U;M;3463
+2014/2015;07201;Bari;public    ;U;F;30570
+2014/2015;07201;Bari;public    ;U;M;17759
+2014/2015;07202;Bari Politecnico;public    ;P;F;3255
+2014/2015;07202;Bari Politecnico;public    ;P;M;6988
+2014/2015;07203;Casamassima - J.Monnet;private   ;U;F;497
+2014/2015;07203;Casamassima - J.Monnet;private   ;U;M;749
+2014/2015;07501;Salento;public    ;U;F;11325
+2014/2015;06501;Salerno;public    ;U;F;20858
+2014/2015;07001;Molise;public    ;U;F;4129
+2014/2015;01601;Bergamo;public    ;U;M;5533
+2014/2015;01504;Milano Cattolica;private   ;U;F;23375
+2014/2015;01504;Milano Cattolica;private   ;U;M;13018
+2014/2015;01505;Milano IULM;private   ;U;F;3040
+2014/2015;01505;Milano IULM;private   ;U;M;1266
+2014/2015;01508;Milano San Raffaele;private   ;U;F;1259
+2014/2015;01508;Milano San Raffaele;private   ;U;M;866
+2014/2015;01509;Milano Bicocca;public    ;U;F;19793
+2014/2015;01509;Milano Bicocca;public    ;U;M;12323
+2014/2015;01510;Rozzano (MI) Humanitas University;private   ;U;F;94
+2014/2015;02301;Verona;public    ;U;M;7821
+2014/2015;01601;Bergamo;public    ;U;F;9319
+2014/2015;01502;Milano Politecnico;public    ;P;M;27081
+2014/2015;01701;Brescia;public    ;U;F;6635
+2014/2015;01701;Brescia;public    ;U;M;7481
+2014/2015;01801;Pavia;public    ;U;F;11762
+2014/2015;01801;Pavia;public    ;U;M;9429
+2014/2015;02101;Bolzano;public    ;U;F;1859
+2014/2015;02101;Bolzano;public    ;U;M;899
+2014/2015;02201;Trento;public    ;U;F;8346
+2014/2015;02201;Trento;public    ;U;M;8150
+2014/2015;02301;Verona;public    ;U;F;14164
+2014/2015;01510;Rozzano (MI) Humanitas University;private   ;U;M;47
+2014/2015;01001;Genova;public    ;U;M;14414
+2014/2015;06304;Napoli Benincasa;private   ;U;M;1161
+2014/2015;00101;Torino;public    ;U;M;25261
+2014/2015;05802;Roma Tor Vergata;public    ;U;F;15484
+2014/2015;00102;Torino Politecnico;public    ;P;M;21192
+2014/2015;00201;Piemonte Orientale;public    ;U;F;6331
+2014/2015;00201;Piemonte Orientale;public    ;U;M;4066
+2014/2015;00401;Bra Scienze Gastronomiche;private   ;U;F;164
+2014/2015;00401;Bra Scienze Gastronomiche;private   ;U;M;131
+2014/2015;00701;Aosta;public    ;U;F;836
+2014/2015;01503;Milano Bocconi;private   ;U;M;6846
+2014/2015;01001;Genova;public    ;U;F;17722
+2014/2015;01503;Milano Bocconi;private   ;U;F;6443
+2014/2015;01201;Castellanza LIUC;private   ;U;F;673
+2014/2015;01201;Castellanza LIUC;private   ;U;M;1139
+2014/2015;01202;Insubria;public    ;U;F;4962
+2014/2015;01202;Insubria;public    ;U;M;3890
+2014/2015;01301;Novedrate e-Campus - telematica;private   ;UT;F;3687
+2014/2015;01301;Novedrate e-Campus - telematica;private   ;UT;M;3975
+2014/2015;01501;Milano;public    ;U;F;35459
+2014/2015;01501;Milano;public    ;U;M;24983
+2014/2015;01502;Milano Politecnico;public    ;P;F;13453
+2014/2015;00102;Torino Politecnico;public    ;P;F;8433
+2014/2015;00701;Aosta;public    ;U;M;316
+2014/2015;05202;Siena Stranieri;public    ;U;F;1128
+2014/2015;04301;Macerata;public    ;U;M;2802
+2014/2015;04302;Camerino;public    ;U;F;3410
+2014/2015;04302;Camerino;public    ;U;M;3186
+2014/2015;04801;Firenze;public    ;U;F;30107
+2014/2015;04801;Firenze;public    ;U;M;20950
+2014/2015;04804;Firenze IUL - telematica;private   ;UT;F;34
+2014/2015;04804;Firenze IUL - telematica;private   ;UT;M;5
+2014/2015;05001;Pisa;public    ;U;F;23274
+2014/2015;05001;Pisa;public    ;U;M;22006
+2014/2015;04301;Macerata;public    ;U;F;6897
+2014/2015;05201;Siena;public    ;U;M;6494
+2014/2015;05801;Roma La Sapienza;public    ;U;F;59351
+2014/2015;05202;Siena Stranieri;public    ;U;M;267
+2014/2015;05401;Perugia;public    ;U;F;12585
+2014/2015;05401;Perugia;public    ;U;M;9744
+2014/2015;05403;Perugia Stranieri;public    ;U;F;629
+2014/2015;05403;Perugia Stranieri;public    ;U;M;359
+2014/2015;05601;Tuscia;public    ;U;F;3735
+2014/2015;05601;Tuscia;public    ;U;M;3862
+2014/2015;05801;Roma La Sapienza;public    ;U;M;43077
+2014/2015;02701;Venezia Cà Foscari;public    ;U;F;12377
+2014/2015;00101;Torino;public    ;U;F;40631
+2014/2015;05201;Siena;public    ;U;F;9085
+2014/2015;03001;Udine;public    ;U;M;7131
+2014/2015;04201;Marche;public    ;P;M;8613
+2014/2015;02702;Venezia Iuav;public    ;U;F;2247
+2014/2015;02701;Venezia Cà Foscari;public    ;U;M;6779
+2014/2015;02702;Venezia Iuav;public    ;U;M;2213
+2014/2015;02801;Padova;public    ;U;F;31733
+2014/2015;03001;Udine;public    ;U;F;7774
+2014/2015;03201;Trieste;public    ;U;F;8780
+2014/2015;03201;Trieste;public    ;U;M;6741
+2014/2015;03401;Parma;public    ;U;F;13167
+2014/2015;03801;Ferrara;public    ;U;M;7014
+2014/2015;04201;Marche;public    ;P;F;7114
+2014/2015;04101;Urbino;public    ;U;M;5374
+2014/2015;02801;Padova;public    ;U;M;26715
+2014/2015;04101;Urbino;public    ;U;F;8509
+2014/2015;03401;Parma;public    ;U;M;10123
+2014/2015;03801;Ferrara;public    ;U;F;8602
+2014/2015;03701;Bologna;public    ;U;M;33851
+2014/2015;03701;Bologna;public    ;U;F;43007
+2014/2015;03601;Modena e Reggio Emilia;public    ;U;M;9116
+2014/2015;03601;Modena e Reggio Emilia;public    ;U;F;10556
+2013/2014;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;194
+2013/2014;05816;Roma San Raffaele - telematica;private   ;UT;F;356
+2013/2014;06306;Napoli Vanvitelli;public    ;U;M;11124
+2013/2014;05817;Roma Link Campus;private   ;U;F;400
+2013/2014;05817;Roma Link Campus;private   ;U;M;787
+2013/2014;06001;Cassino;public    ;U;F;4752
+2013/2014;06001;Cassino;public    ;U;M;3840
+2013/2014;06201;Sannio;public    ;U;F;3220
+2013/2014;06201;Sannio;public    ;U;M;2967
+2013/2014;05816;Roma San Raffaele - telematica;private   ;UT;M;609
+2013/2014;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;350
+2013/2014;06301;Napoli Federico II;public    ;U;F;46332
+2013/2014;06301;Napoli Federico II;public    ;U;M;35697
+2013/2014;06302;Napoli Parthenope;public    ;U;F;6791
+2013/2014;06302;Napoli Parthenope;public    ;U;M;8608
+2013/2014;06303;Napoli L'Orientale;public    ;U;F;8142
+2013/2014;06303;Napoli L'Orientale;public    ;U;M;2290
+2013/2014;06304;Napoli Benincasa;private   ;U;F;6881
+2013/2014;06306;Napoli Vanvitelli;public    ;U;F;15506
+2013/2014;05811;Roma UNITELMA - telematica;private   ;UT;F;787
+2013/2014;06307;Napoli Pegaso - telematica;private   ;UT;F;3055
+2013/2014;06304;Napoli Benincasa;private   ;U;M;1196
+2013/2014;05810;Roma Marconi - telematica;private   ;UT;F;4382
+2013/2014;05805;Roma LUISS;private   ;U;M;3733
+2013/2014;07601;Basilicata;public    ;U;M;3207
+2013/2014;05805;Roma LUISS;private   ;U;F;3883
+2013/2014;06307;Napoli Pegaso - telematica;private   ;UT;M;5862
+2013/2014;05806;Roma Foro Italico;public    ;U;M;1524
+2013/2014;05807;Roma Tre;public    ;U;F;20924
+2013/2014;05807;Roma Tre;public    ;U;M;14381
+2013/2014;05808;Roma Biomedico;private   ;U;F;941
+2013/2014;05808;Roma Biomedico;private   ;U;M;626
+2013/2014;05812;Roma Europea;private   ;U;F;547
+2013/2014;05809;Roma UNINT;private   ;U;M;365
+2013/2014;05815;Roma UNICUSANO - telematica;private   ;UT;M;7327
+2013/2014;05810;Roma Marconi - telematica;private   ;UT;M;7891
+2013/2014;05811;Roma UNITELMA - telematica;private   ;UT;M;892
+2013/2014;05806;Roma Foro Italico;public    ;U;F;683
+2013/2014;05812;Roma Europea;private   ;U;M;340
+2013/2014;05813;Roma UNINETTUNO - telematica;private   ;UT;F;3315
+2013/2014;05813;Roma UNINETTUNO - telematica;private   ;UT;M;5279
+2013/2014;05814;Roma  Mercatorum - telematica;private   ;UT;F;91
+2013/2014;05814;Roma  Mercatorum - telematica;private   ;UT;M;160
+2013/2014;05815;Roma UNICUSANO - telematica;private   ;UT;F;4610
+2013/2014;05809;Roma UNINT;private   ;U;F;833
+2013/2014;08601;Enna KORE;private   ;U;F;3583
+2013/2014;07901;Catanzaro;public    ;U;F;6342
+2013/2014;07901;Catanzaro;public    ;U;M;4050
+2013/2014;08001;Reggio Calabria;public    ;U;F;3869
+2013/2014;08001;Reggio Calabria;public    ;U;M;3778
+2013/2014;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;645
+2013/2014;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;120
+2013/2014;08201;Palermo;public    ;U;F;26466
+2013/2014;08201;Palermo;public    ;U;M;18113
+2013/2014;07501;Salento;public    ;U;M;6671
+2013/2014;08301;Messina;public    ;U;M;9656
+2013/2014;07601;Basilicata;public    ;U;F;4223
+2013/2014;08601;Enna KORE;private   ;U;M;2443
+2013/2014;08701;Catania;public    ;U;F;30042
+2013/2014;08701;Catania;public    ;U;M;19333
+2013/2014;09001;Sassari;public    ;U;F;8546
+2013/2014;09001;Sassari;public    ;U;M;4730
+2013/2014;09201;Cagliari;public    ;U;F;16661
+2013/2014;09201;Cagliari;public    ;U;M;11000
+2013/2014;02101;Bolzano;public    ;U;F;1823
+2013/2014;05803;Roma LUMSA;private   ;U;M;1953
+2013/2014;08301;Messina;public    ;U;F;16911
+2013/2014;07101;Foggia;public    ;U;F;6096
+2013/2014;06501;Salerno;public    ;U;M;13597
+2013/2014;06601;L'Aquila;public    ;U;F;13482
+2013/2014;06601;L'Aquila;public    ;U;M;10495
+2013/2014;06701;Teramo;public    ;U;F;3752
+2013/2014;06701;Teramo;public    ;U;M;2641
+2013/2014;06901;Chieti e Pescara;public    ;U;F;18509
+2013/2014;06901;Chieti e Pescara;public    ;U;M;10039
+2013/2014;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;158
+2013/2014;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;132
+2013/2014;07801;Calabria;public    ;U;M;12357
+2013/2014;07001;Molise;public    ;U;M;2995
+2013/2014;07801;Calabria;public    ;U;F;18133
+2013/2014;07101;Foggia;public    ;U;M;3490
+2013/2014;07201;Bari;public    ;U;F;32000
+2013/2014;07201;Bari;public    ;U;M;17984
+2013/2014;07202;Bari Politecnico;public    ;P;F;3378
+2013/2014;07202;Bari Politecnico;public    ;P;M;7284
+2013/2014;07203;Casamassima - J.Monnet;private   ;U;F;518
+2013/2014;07203;Casamassima - J.Monnet;private   ;U;M;782
+2013/2014;07501;Salento;public    ;U;F;12134
+2013/2014;06501;Salerno;public    ;U;F;21182
+2013/2014;07001;Molise;public    ;U;F;4325
+2013/2014;01601;Bergamo;public    ;U;F;9010
+2013/2014;01503;Milano Bocconi;private   ;U;F;6636
+2013/2014;01503;Milano Bocconi;private   ;U;M;6882
+2013/2014;01504;Milano Cattolica;private   ;U;F;23743
+2013/2014;01504;Milano Cattolica;private   ;U;M;13046
+2013/2014;01505;Milano IULM;private   ;U;F;2928
+2013/2014;01505;Milano IULM;private   ;U;M;1263
+2013/2014;01508;Milano San Raffaele;private   ;U;F;1146
+2013/2014;01508;Milano San Raffaele;private   ;U;M;855
+2013/2014;02701;Venezia Cà Foscari;public    ;U;F;12563
+2013/2014;01509;Milano Bicocca;public    ;U;M;12238
+2013/2014;01501;Milano;public    ;U;M;24727
+2013/2014;01601;Bergamo;public    ;U;M;5355
+2013/2014;01701;Brescia;public    ;U;F;6694
+2013/2014;01701;Brescia;public    ;U;M;7472
+2013/2014;01801;Pavia;public    ;U;F;11828
+2013/2014;01801;Pavia;public    ;U;M;9621
+2013/2014;02101;Bolzano;public    ;U;M;829
+2013/2014;02201;Trento;public    ;U;M;8149
+2013/2014;02301;Verona;public    ;U;F;14132
+2013/2014;02301;Verona;public    ;U;M;7742
+2013/2014;01509;Milano Bicocca;public    ;U;F;19905
+2013/2014;01001;Genova;public    ;U;F;18058
+2013/2014;00101;Torino;public    ;U;F;40421
+2013/2014;02201;Trento;public    ;U;F;8316
+2013/2014;00101;Torino;public    ;U;M;24895
+2013/2014;05803;Roma LUMSA;private   ;U;F;4080
+2013/2014;00102;Torino Politecnico;public    ;P;M;20599
+2013/2014;00201;Piemonte Orientale;public    ;U;F;6124
+2013/2014;00201;Piemonte Orientale;public    ;U;M;3959
+2013/2014;00401;Bra Scienze Gastronomiche;private   ;U;F;145
+2013/2014;00401;Bra Scienze Gastronomiche;private   ;U;M;119
+2013/2014;01502;Milano Politecnico;public    ;P;M;26904
+2013/2014;00701;Aosta;public    ;U;M;325
+2013/2014;01502;Milano Politecnico;public    ;P;F;13438
+2013/2014;01001;Genova;public    ;U;M;14563
+2013/2014;01201;Castellanza LIUC;private   ;U;F;666
+2013/2014;01201;Castellanza LIUC;private   ;U;M;1090
+2013/2014;01202;Insubria;public    ;U;F;4773
+2013/2014;01202;Insubria;public    ;U;M;3740
+2013/2014;01301;Novedrate e-Campus - telematica;private   ;UT;F;3134
+2013/2014;01301;Novedrate e-Campus - telematica;private   ;UT;M;3589
+2013/2014;01501;Milano;public    ;U;F;35392
+2013/2014;00102;Torino Politecnico;public    ;P;F;8207
+2013/2014;00701;Aosta;public    ;U;F;834
+2013/2014;05202;Siena Stranieri;public    ;U;M;211
+2013/2014;04302;Camerino;public    ;U;F;3519
+2013/2014;04302;Camerino;public    ;U;M;3301
+2013/2014;04801;Firenze;public    ;U;F;29662
+2013/2014;04801;Firenze;public    ;U;M;20791
+2013/2014;04804;Firenze IUL - telematica;private   ;UT;F;17
+2013/2014;04804;Firenze IUL - telematica;private   ;UT;M;3
+2013/2014;05001;Pisa;public    ;U;F;23378
+2013/2014;05001;Pisa;public    ;U;M;21709
+2013/2014;05201;Siena;public    ;U;F;9264
+2013/2014;04301;Macerata;public    ;U;M;2880
+2013/2014;05202;Siena Stranieri;public    ;U;F;925
+2013/2014;05801;Roma La Sapienza;public    ;U;F;60495
+2013/2014;05401;Perugia;public    ;U;F;12940
+2013/2014;05401;Perugia;public    ;U;M;9953
+2013/2014;05403;Perugia Stranieri;public    ;U;F;708
+2013/2014;05403;Perugia Stranieri;public    ;U;M;392
+2013/2014;05601;Tuscia;public    ;U;F;3677
+2013/2014;05601;Tuscia;public    ;U;M;3753
+2013/2014;05801;Roma La Sapienza;public    ;U;M;42935
+2013/2014;05802;Roma Tor Vergata;public    ;U;M;15122
+2013/2014;02701;Venezia Cà Foscari;public    ;U;M;6783
+2013/2014;05201;Siena;public    ;U;M;6477
+2013/2014;03201;Trieste;public    ;U;F;9325
+2013/2014;05802;Roma Tor Vergata;public    ;U;F;15475
+2013/2014;02702;Venezia Iuav;public    ;U;M;2374
+2013/2014;02702;Venezia Iuav;public    ;U;F;2293
+2013/2014;02801;Padova;public    ;U;M;26176
+2013/2014;03001;Udine;public    ;U;F;8063
+2013/2014;04301;Macerata;public    ;U;F;6918
+2013/2014;03001;Udine;public    ;U;M;7090
+2013/2014;02801;Padova;public    ;U;F;32095
+2013/2014;03201;Trieste;public    ;U;M;7181
+2013/2014;03401;Parma;public    ;U;F;14094
+2013/2014;03601;Modena e Reggio Emilia;public    ;U;F;10605
+2013/2014;03601;Modena e Reggio Emilia;public    ;U;M;8914
+2013/2014;03701;Bologna;public    ;U;F;43478
+2013/2014;03701;Bologna;public    ;U;M;34082
+2013/2014;03801;Ferrara;public    ;U;F;8726
+2013/2014;03801;Ferrara;public    ;U;M;7159
+2013/2014;04101;Urbino;public    ;U;F;8491
+2013/2014;03401;Parma;public    ;U;M;10764
+2013/2014;04201;Marche;public    ;P;M;8668
+2013/2014;04101;Urbino;public    ;U;M;5368
+2013/2014;04201;Marche;public    ;P;F;6990
+2012/2013;05816;Roma San Raffaele - telematica;private   ;UT;F;291
+2012/2013;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;183
+2012/2013;06201;Sannio;public    ;U;M;3000
+2012/2013;06201;Sannio;public    ;U;F;3260
+2012/2013;06001;Cassino;public    ;U;M;4075
+2012/2013;05815;Roma UNICUSANO - telematica;private   ;UT;F;4091
+2012/2013;05816;Roma San Raffaele - telematica;private   ;UT;M;551
+2012/2013;05815;Roma UNICUSANO - telematica;private   ;UT;M;7410
+2012/2013;06001;Cassino;public    ;U;F;5035
+2012/2013;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;303
+2012/2013;06301;Napoli Federico II;public    ;U;F;47928
+2012/2013;06301;Napoli Federico II;public    ;U;M;36612
+2012/2013;06302;Napoli Parthenope;public    ;U;F;7002
+2012/2013;06302;Napoli Parthenope;public    ;U;M;8731
+2012/2013;06303;Napoli L'Orientale;public    ;U;F;8057
+2012/2013;06303;Napoli L'Orientale;public    ;U;M;2278
+2012/2013;06304;Napoli Benincasa;private   ;U;M;1353
+2012/2013;05809;Roma UNINT;private   ;U;M;405
+2012/2013;06306;Napoli Vanvitelli;public    ;U;F;16370
+2012/2013;06306;Napoli Vanvitelli;public    ;U;M;11773
+2012/2013;06307;Napoli Pegaso - telematica;private   ;UT;F;1810
+2012/2013;06304;Napoli Benincasa;private   ;U;F;7631
+2012/2013;05808;Roma Biomedico;private   ;U;M;618
+2012/2013;05805;Roma LUISS;private   ;U;F;4020
+2012/2013;05803;Roma LUMSA;private   ;U;M;2050
+2012/2013;07601;Basilicata;public    ;U;F;4441
+2012/2013;06307;Napoli Pegaso - telematica;private   ;UT;M;2910
+2012/2013;05805;Roma LUISS;private   ;U;M;3727
+2012/2013;05806;Roma Foro Italico;public    ;U;F;662
+2012/2013;05806;Roma Foro Italico;public    ;U;M;1486
+2012/2013;05807;Roma Tre;public    ;U;F;21239
+2012/2013;05810;Roma Marconi - telematica;private   ;UT;M;7448
+2012/2013;05808;Roma Biomedico;private   ;U;F;920
+2012/2013;05814;Roma  Mercatorum - telematica;private   ;UT;M;137
+2012/2013;05809;Roma UNINT;private   ;U;F;803
+2012/2013;05810;Roma Marconi - telematica;private   ;UT;F;3875
+2012/2013;05811;Roma UNITELMA - telematica;private   ;UT;F;821
+2012/2013;05811;Roma UNITELMA - telematica;private   ;UT;M;913
+2012/2013;05812;Roma Europea;private   ;U;F;569
+2012/2013;05812;Roma Europea;private   ;U;M;371
+2012/2013;05813;Roma UNINETTUNO - telematica;private   ;UT;F;3107
+2012/2013;05813;Roma UNINETTUNO - telematica;private   ;UT;M;4914
+2012/2013;05814;Roma  Mercatorum - telematica;private   ;UT;F;63
+2012/2013;05807;Roma Tre;public    ;U;M;14447
+2012/2013;08301;Messina;public    ;U;M;10560
+2012/2013;07801;Calabria;public    ;U;M;12752
+2012/2013;07901;Catanzaro;public    ;U;F;6125
+2012/2013;07901;Catanzaro;public    ;U;M;3883
+2012/2013;08001;Reggio Calabria;public    ;U;F;4290
+2012/2013;08001;Reggio Calabria;public    ;U;M;4212
+2012/2013;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;577
+2012/2013;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;114
+2012/2013;08201;Palermo;public    ;U;F;28237
+2012/2013;07501;Salento;public    ;U;F;13169
+2012/2013;08301;Messina;public    ;U;F;18350
+2012/2013;07501;Salento;public    ;U;M;6962
+2012/2013;08601;Enna KORE;private   ;U;F;3509
+2012/2013;08601;Enna KORE;private   ;U;M;2483
+2012/2013;08701;Catania;public    ;U;F;32044
+2012/2013;08701;Catania;public    ;U;M;20187
+2012/2013;09001;Sassari;public    ;U;F;9015
+2012/2013;09001;Sassari;public    ;U;M;4886
+2012/2013;09201;Cagliari;public    ;U;F;17473
+2012/2013;05401;Perugia;public    ;U;M;10748
+2012/2013;05803;Roma LUMSA;private   ;U;F;4308
+2012/2013;08201;Palermo;public    ;U;M;18871
+2012/2013;07101;Foggia;public    ;U;F;6268
+2012/2013;06501;Salerno;public    ;U;M;13773
+2012/2013;06601;L'Aquila;public    ;U;F;13513
+2012/2013;06601;L'Aquila;public    ;U;M;10789
+2012/2013;06701;Teramo;public    ;U;F;4060
+2012/2013;06701;Teramo;public    ;U;M;2997
+2012/2013;06901;Chieti e Pescara;public    ;U;F;19496
+2012/2013;06901;Chieti e Pescara;public    ;U;M;10412
+2012/2013;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;184
+2012/2013;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;142
+2012/2013;07801;Calabria;public    ;U;F;18818
+2012/2013;07001;Molise;public    ;U;M;3098
+2012/2013;07601;Basilicata;public    ;U;M;3473
+2012/2013;07101;Foggia;public    ;U;M;3716
+2012/2013;07201;Bari;public    ;U;F;33331
+2012/2013;07201;Bari;public    ;U;M;18320
+2012/2013;07202;Bari Politecnico;public    ;P;F;3510
+2012/2013;07202;Bari Politecnico;public    ;P;M;7647
+2012/2013;07203;Casamassima - J.Monnet;private   ;U;F;491
+2012/2013;07203;Casamassima - J.Monnet;private   ;U;M;816
+2012/2013;09201;Cagliari;public    ;U;M;11372
+2012/2013;06501;Salerno;public    ;U;F;21819
+2012/2013;07001;Molise;public    ;U;F;4378
+2012/2013;01601;Bergamo;public    ;U;F;9071
+2012/2013;01503;Milano Bocconi;private   ;U;F;6549
+2012/2013;01503;Milano Bocconi;private   ;U;M;6839
+2012/2013;01504;Milano Cattolica;private   ;U;F;24461
+2012/2013;01504;Milano Cattolica;private   ;U;M;13274
+2012/2013;01505;Milano IULM;private   ;U;F;2958
+2012/2013;01505;Milano IULM;private   ;U;M;1274
+2012/2013;01508;Milano San Raffaele;private   ;U;F;1153
+2012/2013;01508;Milano San Raffaele;private   ;U;M;837
+2012/2013;02301;Verona;public    ;U;F;14586
+2012/2013;01509;Milano Bicocca;public    ;U;M;12267
+2012/2013;01501;Milano;public    ;U;M;24457
+2012/2013;01601;Bergamo;public    ;U;M;5450
+2012/2013;01701;Brescia;public    ;U;F;6651
+2012/2013;01701;Brescia;public    ;U;M;7527
+2012/2013;01801;Pavia;public    ;U;F;12149
+2012/2013;01801;Pavia;public    ;U;M;9641
+2012/2013;02101;Bolzano;public    ;U;F;1900
+2012/2013;02101;Bolzano;public    ;U;M;859
+2012/2013;02201;Trento;public    ;U;F;8429
+2012/2013;02201;Trento;public    ;U;M;8054
+2012/2013;01509;Milano Bicocca;public    ;U;F;20212
+2012/2013;01001;Genova;public    ;U;F;18891
+2012/2013;05802;Roma Tor Vergata;public    ;U;M;15104
+2012/2013;05403;Perugia Stranieri;public    ;U;M;449
+2012/2013;00101;Torino;public    ;U;F;40700
+2012/2013;00102;Torino Politecnico;public    ;P;F;7940
+2012/2013;00102;Torino Politecnico;public    ;P;M;19854
+2012/2013;00201;Piemonte Orientale;public    ;U;F;6075
+2012/2013;00201;Piemonte Orientale;public    ;U;M;3908
+2012/2013;00401;Bra Scienze Gastronomiche;private   ;U;F;142
+2012/2013;00401;Bra Scienze Gastronomiche;private   ;U;M;126
+2012/2013;01502;Milano Politecnico;public    ;P;M;26490
+2012/2013;00701;Aosta;public    ;U;M;334
+2012/2013;01502;Milano Politecnico;public    ;P;F;13256
+2012/2013;01001;Genova;public    ;U;M;14880
+2012/2013;01201;Castellanza LIUC;private   ;U;F;652
+2012/2013;01201;Castellanza LIUC;private   ;U;M;1108
+2012/2013;01202;Insubria;public    ;U;F;4801
+2012/2013;01202;Insubria;public    ;U;M;3811
+2012/2013;01301;Novedrate e-Campus - telematica;private   ;UT;F;2758
+2012/2013;01301;Novedrate e-Campus - telematica;private   ;UT;M;3395
+2012/2013;01501;Milano;public    ;U;F;35162
+2012/2013;00101;Torino;public    ;U;M;24850
+2012/2013;00701;Aosta;public    ;U;F;873
+2012/2013;05201;Siena;public    ;U;M;6723
+2012/2013;04301;Macerata;public    ;U;F;7224
+2012/2013;04301;Macerata;public    ;U;M;3028
+2012/2013;04302;Camerino;public    ;U;F;3677
+2012/2013;04302;Camerino;public    ;U;M;3546
+2012/2013;04801;Firenze;public    ;U;F;30439
+2012/2013;04801;Firenze;public    ;U;M;21273
+2012/2013;04804;Firenze IUL - telematica;private   ;UT;F;18
+2012/2013;04804;Firenze IUL - telematica;private   ;UT;M;5
+2012/2013;04201;Marche;public    ;P;M;8838
+2012/2013;05001;Pisa;public    ;U;M;21643
+2012/2013;05001;Pisa;public    ;U;F;23496
+2012/2013;05202;Siena Stranieri;public    ;U;F;787
+2012/2013;05202;Siena Stranieri;public    ;U;M;165
+2012/2013;05401;Perugia;public    ;U;F;14164
+2012/2013;05802;Roma Tor Vergata;public    ;U;F;15966
+2012/2013;05403;Perugia Stranieri;public    ;U;F;773
+2012/2013;05601;Tuscia;public    ;U;F;3579
+2012/2013;05601;Tuscia;public    ;U;M;3653
+2012/2013;05801;Roma La Sapienza;public    ;U;M;44845
+2012/2013;02301;Verona;public    ;U;M;7975
+2012/2013;05801;Roma La Sapienza;public    ;U;F;64265
+2012/2013;03001;Udine;public    ;U;M;7240
+2012/2013;05201;Siena;public    ;U;F;9599
+2012/2013;04201;Marche;public    ;P;F;7028
+2012/2013;02702;Venezia Iuav;public    ;U;F;2476
+2012/2013;02702;Venezia Iuav;public    ;U;M;2649
+2012/2013;02801;Padova;public    ;U;F;32987
+2012/2013;03001;Udine;public    ;U;F;8337
+2012/2013;02701;Venezia Cà Foscari;public    ;U;M;6474
+2012/2013;03201;Trieste;public    ;U;F;9817
+2012/2013;03201;Trieste;public    ;U;M;7515
+2012/2013;02701;Venezia Cà Foscari;public    ;U;F;12182
+2012/2013;04101;Urbino;public    ;U;F;8808
+2012/2013;02801;Padova;public    ;U;M;26219
+2012/2013;04101;Urbino;public    ;U;M;5567
+2012/2013;03401;Parma;public    ;U;F;14963
+2012/2013;03801;Ferrara;public    ;U;M;7384
+2012/2013;03801;Ferrara;public    ;U;F;9239
+2012/2013;03701;Bologna;public    ;U;M;34222
+2012/2013;03701;Bologna;public    ;U;F;44280
+2012/2013;03601;Modena e Reggio Emilia;public    ;U;M;8772
+2012/2013;03601;Modena e Reggio Emilia;public    ;U;F;10368
+2012/2013;03401;Parma;public    ;U;M;11417
+2011/2012;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;327
+2011/2012;05816;Roma San Raffaele - telematica;private   ;UT;F;154
+2011/2012;05816;Roma San Raffaele - telematica;private   ;UT;M;285
+2011/2012;06001;Cassino;public    ;U;F;5660
+2011/2012;06001;Cassino;public    ;U;M;4490
+2011/2012;06201;Sannio;public    ;U;F;3484
+2011/2012;06201;Sannio;public    ;U;M;3244
+2011/2012;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;161
+2011/2012;05815;Roma UNICUSANO - telematica;private   ;UT;M;6539
+2011/2012;06301;Napoli Federico II;public    ;U;F;49504
+2011/2012;06301;Napoli Federico II;public    ;U;M;37968
+2011/2012;06302;Napoli Parthenope;public    ;U;F;7227
+2011/2012;06302;Napoli Parthenope;public    ;U;M;9010
+2011/2012;06303;Napoli L'Orientale;public    ;U;F;7947
+2011/2012;06303;Napoli L'Orientale;public    ;U;M;2214
+2011/2012;06304;Napoli Benincasa;private   ;U;F;8289
+2011/2012;06304;Napoli Benincasa;private   ;U;M;1462
+2011/2012;06306;Napoli Vanvitelli;public    ;U;M;12131
+2011/2012;05815;Roma UNICUSANO - telematica;private   ;UT;F;3526
+2011/2012;06306;Napoli Vanvitelli;public    ;U;F;16770
+2011/2012;05809;Roma UNINT;private   ;U;M;430
+2011/2012;05803;Roma LUMSA;private   ;U;F;4469
+2011/2012;07501;Salento;public    ;U;M;7555
+2011/2012;05803;Roma LUMSA;private   ;U;M;2152
+2011/2012;05805;Roma LUISS;private   ;U;M;3693
+2011/2012;05806;Roma Foro Italico;public    ;U;F;682
+2011/2012;05806;Roma Foro Italico;public    ;U;M;1434
+2011/2012;05807;Roma Tre;public    ;U;F;22020
+2011/2012;05807;Roma Tre;public    ;U;M;15009
+2011/2012;05808;Roma Biomedico;private   ;U;F;862
+2011/2012;05805;Roma LUISS;private   ;U;F;4100
+2011/2012;05809;Roma UNINT;private   ;U;F;848
+2011/2012;05814;Roma  Mercatorum - telematica;private   ;UT;M;144
+2011/2012;05810;Roma Marconi - telematica;private   ;UT;F;3449
+2011/2012;05810;Roma Marconi - telematica;private   ;UT;M;7144
+2011/2012;05811;Roma UNITELMA - telematica;private   ;UT;F;727
+2011/2012;05811;Roma UNITELMA - telematica;private   ;UT;M;944
+2011/2012;05812;Roma Europea;private   ;U;F;550
+2011/2012;05812;Roma Europea;private   ;U;M;359
+2011/2012;05813;Roma UNINETTUNO - telematica;private   ;UT;F;2277
+2011/2012;05813;Roma UNINETTUNO - telematica;private   ;UT;M;3640
+2011/2012;05814;Roma  Mercatorum - telematica;private   ;UT;F;69
+2011/2012;05808;Roma Biomedico;private   ;U;M;599
+2011/2012;08301;Messina;public    ;U;M;11409
+2011/2012;07801;Calabria;public    ;U;M;13275
+2011/2012;07901;Catanzaro;public    ;U;F;6239
+2011/2012;07901;Catanzaro;public    ;U;M;3896
+2011/2012;08001;Reggio Calabria;public    ;U;F;4651
+2011/2012;08001;Reggio Calabria;public    ;U;M;4631
+2011/2012;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;447
+2011/2012;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;80
+2011/2012;08201;Palermo;public    ;U;F;30301
+2011/2012;07203;Casamassima - J.Monnet;private   ;U;M;812
+2011/2012;08301;Messina;public    ;U;F;19670
+2011/2012;07601;Basilicata;public    ;U;F;4670
+2011/2012;08601;Enna KORE;private   ;U;F;3631
+2011/2012;08601;Enna KORE;private   ;U;M;2521
+2011/2012;08701;Catania;public    ;U;F;32829
+2011/2012;08701;Catania;public    ;U;M;20698
+2011/2012;09001;Sassari;public    ;U;F;9460
+2011/2012;09001;Sassari;public    ;U;M;5049
+2011/2012;05802;Roma Tor Vergata;public    ;U;M;15194
+2011/2012;06307;Napoli Pegaso - telematica;private   ;UT;F;1416
+2011/2012;09201;Cagliari;public    ;U;M;11964
+2011/2012;08201;Palermo;public    ;U;M;20199
+2011/2012;07101;Foggia;public    ;U;F;6591
+2011/2012;06501;Salerno;public    ;U;M;14143
+2011/2012;06601;L'Aquila;public    ;U;F;13199
+2011/2012;06601;L'Aquila;public    ;U;M;10820
+2011/2012;06701;Teramo;public    ;U;F;4497
+2011/2012;06701;Teramo;public    ;U;M;3295
+2011/2012;06901;Chieti e Pescara;public    ;U;F;20626
+2011/2012;06901;Chieti e Pescara;public    ;U;M;11119
+2011/2012;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;206
+2011/2012;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;144
+2011/2012;07801;Calabria;public    ;U;F;19559
+2011/2012;07001;Molise;public    ;U;M;3157
+2011/2012;07601;Basilicata;public    ;U;M;3702
+2011/2012;07101;Foggia;public    ;U;M;3844
+2011/2012;07201;Bari;public    ;U;F;35488
+2011/2012;07201;Bari;public    ;U;M;19077
+2011/2012;07202;Bari Politecnico;public    ;P;F;3651
+2011/2012;07202;Bari Politecnico;public    ;P;M;8145
+2011/2012;07203;Casamassima - J.Monnet;private   ;U;F;480
+2011/2012;09201;Cagliari;public    ;U;F;18810
+2011/2012;07501;Salento;public    ;U;F;14505
+2011/2012;06307;Napoli Pegaso - telematica;private   ;UT;M;2269
+2011/2012;07001;Molise;public    ;U;F;4558
+2011/2012;01601;Bergamo;public    ;U;M;5639
+2011/2012;00101;Torino;public    ;U;F;41043
+2011/2012;01504;Milano Cattolica;private   ;U;F;24632
+2011/2012;01504;Milano Cattolica;private   ;U;M;13316
+2011/2012;01505;Milano IULM;private   ;U;F;3027
+2011/2012;01505;Milano IULM;private   ;U;M;1341
+2011/2012;01508;Milano San Raffaele;private   ;U;F;1171
+2011/2012;01508;Milano San Raffaele;private   ;U;M;799
+2011/2012;01509;Milano Bicocca;public    ;U;F;20281
+2011/2012;02301;Verona;public    ;U;M;7945
+2011/2012;01601;Bergamo;public    ;U;F;9201
+2011/2012;01502;Milano Politecnico;public    ;P;F;12899
+2011/2012;01701;Brescia;public    ;U;F;6738
+2011/2012;01701;Brescia;public    ;U;M;7546
+2011/2012;01801;Pavia;public    ;U;F;12154
+2011/2012;01801;Pavia;public    ;U;M;9716
+2011/2012;02101;Bolzano;public    ;U;F;1984
+2011/2012;02101;Bolzano;public    ;U;M;846
+2011/2012;02201;Trento;public    ;U;F;8567
+2011/2012;02201;Trento;public    ;U;M;8116
+2011/2012;02301;Verona;public    ;U;F;14930
+2011/2012;01509;Milano Bicocca;public    ;U;M;12120
+2011/2012;01001;Genova;public    ;U;M;15729
+2011/2012;06501;Salerno;public    ;U;F;22473
+2011/2012;00101;Torino;public    ;U;M;25076
+2011/2012;00102;Torino Politecnico;public    ;P;F;7766
+2011/2012;00102;Torino Politecnico;public    ;P;M;19881
+2011/2012;00201;Piemonte Orientale;public    ;U;F;5866
+2011/2012;00201;Piemonte Orientale;public    ;U;M;3888
+2011/2012;00401;Bra Scienze Gastronomiche;private   ;U;F;129
+2011/2012;00401;Bra Scienze Gastronomiche;private   ;U;M;125
+2011/2012;00701;Aosta;public    ;U;F;908
+2011/2012;01503;Milano Bocconi;private   ;U;F;6434
+2011/2012;01001;Genova;public    ;U;F;20304
+2011/2012;05802;Roma Tor Vergata;public    ;U;F;16619
+2011/2012;01201;Castellanza LIUC;private   ;U;F;627
+2011/2012;01201;Castellanza LIUC;private   ;U;M;1208
+2011/2012;01202;Insubria;public    ;U;F;5050
+2011/2012;01202;Insubria;public    ;U;M;3941
+2011/2012;01301;Novedrate e-Campus - telematica;private   ;UT;F;2888
+2011/2012;01301;Novedrate e-Campus - telematica;private   ;UT;M;3864
+2011/2012;01501;Milano;public    ;U;F;35350
+2011/2012;01501;Milano;public    ;U;M;24624
+2011/2012;01503;Milano Bocconi;private   ;U;M;6823
+2011/2012;00701;Aosta;public    ;U;M;308
+2011/2012;05401;Perugia;public    ;U;F;14691
+2011/2012;04302;Camerino;public    ;U;F;3750
+2011/2012;04302;Camerino;public    ;U;M;3778
+2011/2012;04801;Firenze;public    ;U;F;31528
+2011/2012;04801;Firenze;public    ;U;M;22318
+2011/2012;04804;Firenze IUL - telematica;private   ;UT;F;20
+2011/2012;04804;Firenze IUL - telematica;private   ;UT;M;6
+2011/2012;05001;Pisa;public    ;U;F;24215
+2011/2012;05001;Pisa;public    ;U;M;21965
+2011/2012;04301;Macerata;public    ;U;M;3209
+2011/2012;05202;Siena Stranieri;public    ;U;M;126
+2011/2012;05201;Siena;public    ;U;F;10528
+2011/2012;05401;Perugia;public    ;U;M;11261
+2011/2012;05403;Perugia Stranieri;public    ;U;F;826
+2011/2012;05403;Perugia Stranieri;public    ;U;M;474
+2011/2012;05601;Tuscia;public    ;U;F;3694
+2011/2012;05601;Tuscia;public    ;U;M;4312
+2011/2012;05801;Roma La Sapienza;public    ;U;F;68618
+2011/2012;02701;Venezia Cà Foscari;public    ;U;F;11867
+2011/2012;01502;Milano Politecnico;public    ;P;M;25629
+2011/2012;05801;Roma La Sapienza;public    ;U;M;47011
+2011/2012;05201;Siena;public    ;U;M;7190
+2011/2012;02702;Venezia Iuav;public    ;U;M;2866
+2011/2012;02701;Venezia Cà Foscari;public    ;U;M;6406
+2011/2012;05202;Siena Stranieri;public    ;U;F;650
+2011/2012;02702;Venezia Iuav;public    ;U;F;2704
+2011/2012;04301;Macerata;public    ;U;F;7752
+2011/2012;02801;Padova;public    ;U;F;33918
+2011/2012;02801;Padova;public    ;U;M;26585
+2011/2012;03001;Udine;public    ;U;F;8594
+2011/2012;03001;Udine;public    ;U;M;7387
+2011/2012;03201;Trieste;public    ;U;F;10773
+2011/2012;03201;Trieste;public    ;U;M;8039
+2011/2012;03401;Parma;public    ;U;F;16139
+2011/2012;03401;Parma;public    ;U;M;12601
+2011/2012;04101;Urbino;public    ;U;M;5689
+2011/2012;04201;Marche;public    ;P;F;7028
+2011/2012;04101;Urbino;public    ;U;F;9269
+2011/2012;03801;Ferrara;public    ;U;M;7732
+2011/2012;03801;Ferrara;public    ;U;F;9755
+2011/2012;03701;Bologna;public    ;U;M;34808
+2011/2012;03701;Bologna;public    ;U;F;45147
+2011/2012;03601;Modena e Reggio Emilia;public    ;U;M;8834
+2011/2012;03601;Modena e Reggio Emilia;public    ;U;F;10515
+2011/2012;04201;Marche;public    ;P;M;9194
+2010/2011;05816;Roma San Raffaele - telematica;private   ;UT;F;121
+2010/2011;06304;Napoli Benincasa;private   ;U;M;1644
+2010/2011;06301;Napoli Federico II;public    ;U;F;49653
+2010/2011;05816;Roma San Raffaele - telematica;private   ;UT;M;205
+2010/2011;06001;Cassino;public    ;U;F;5992
+2010/2011;06001;Cassino;public    ;U;M;4664
+2010/2011;06201;Sannio;public    ;U;F;3655
+2010/2011;06201;Sannio;public    ;U;M;3414
+2010/2011;06202;Benevento Giustino Fortunato - telematica;private   ;UT;F;175
+2010/2011;06202;Benevento Giustino Fortunato - telematica;private   ;UT;M;382
+2010/2011;06301;Napoli Federico II;public    ;U;M;38368
+2010/2011;06302;Napoli Parthenope;public    ;U;F;7659
+2010/2011;06302;Napoli Parthenope;public    ;U;M;9660
+2010/2011;06303;Napoli L'Orientale;public    ;U;F;8134
+2010/2011;06307;Napoli Pegaso - telematica;private   ;UT;F;1750
+2010/2011;06304;Napoli Benincasa;private   ;U;F;8759
+2010/2011;05815;Roma UNICUSANO - telematica;private   ;UT;M;6202
+2010/2011;06306;Napoli Vanvitelli;public    ;U;F;17125
+2010/2011;06306;Napoli Vanvitelli;public    ;U;M;12627
+2010/2011;05803;Roma LUMSA;private   ;U;F;4513
+2010/2011;06303;Napoli L'Orientale;public    ;U;M;2332
+2010/2011;05810;Roma Marconi - telematica;private   ;UT;F;3029
+2010/2011;05803;Roma LUMSA;private   ;U;M;2225
+2010/2011;05805;Roma LUISS;private   ;U;M;3570
+2010/2011;05806;Roma Foro Italico;public    ;U;F;633
+2010/2011;05806;Roma Foro Italico;public    ;U;M;1349
+2010/2011;05807;Roma Tre;public    ;U;F;21600
+2010/2011;05807;Roma Tre;public    ;U;M;15029
+2010/2011;05808;Roma Biomedico;private   ;U;F;779
+2010/2011;05808;Roma Biomedico;private   ;U;M;559
+2010/2011;05805;Roma LUISS;private   ;U;F;4136
+2010/2011;05809;Roma UNINT;private   ;U;M;504
+2010/2011;05815;Roma UNICUSANO - telematica;private   ;UT;F;3015
+2010/2011;05810;Roma Marconi - telematica;private   ;UT;M;7143
+2010/2011;05811;Roma UNITELMA - telematica;private   ;UT;F;585
+2010/2011;05811;Roma UNITELMA - telematica;private   ;UT;M;785
+2010/2011;05812;Roma Europea;private   ;U;F;500
+2010/2011;05812;Roma Europea;private   ;U;M;338
+2010/2011;05813;Roma UNINETTUNO - telematica;private   ;UT;F;2014
+2010/2011;05813;Roma UNINETTUNO - telematica;private   ;UT;M;3203
+2010/2011;05814;Roma  Mercatorum - telematica;private   ;UT;F;86
+2010/2011;05814;Roma  Mercatorum - telematica;private   ;UT;M;146
+2010/2011;05809;Roma UNINT;private   ;U;F;851
+2010/2011;08301;Messina;public    ;U;F;20454
+2010/2011;09001;Sassari;public    ;U;M;5221
+2010/2011;07801;Calabria;public    ;U;F;20226
+2010/2011;07801;Calabria;public    ;U;M;13858
+2010/2011;07901;Catanzaro;public    ;U;F;6669
+2010/2011;07901;Catanzaro;public    ;U;M;4256
+2010/2011;08001;Reggio Calabria;public    ;U;F;4871
+2010/2011;08001;Reggio Calabria;public    ;U;M;4879
+2010/2011;08003;Reggio Calabria - Dante Alighieri;private   ;U;F;285
+2010/2011;08003;Reggio Calabria - Dante Alighieri;private   ;U;M;71
+2010/2011;07601;Basilicata;public    ;U;F;4778
+2010/2011;08201;Palermo;public    ;U;M;21895
+2010/2011;07501;Salento;public    ;U;M;8125
+2010/2011;08301;Messina;public    ;U;M;11921
+2010/2011;08601;Enna KORE;private   ;U;F;3729
+2010/2011;08601;Enna KORE;private   ;U;M;2500
+2010/2011;08701;Catania;public    ;U;F;35002
+2010/2011;08701;Catania;public    ;U;M;22249
+2010/2011;09001;Sassari;public    ;U;F;9909
+2010/2011;05802;Roma Tor Vergata;public    ;U;M;14951
+2010/2011;09201;Cagliari;public    ;U;F;20123
+2010/2011;02301;Verona;public    ;U;M;8244
+2010/2011;08201;Palermo;public    ;U;F;32606
+2010/2011;07001;Molise;public    ;U;M;3356
+2010/2011;06501;Salerno;public    ;U;F;22637
+2010/2011;06501;Salerno;public    ;U;M;14498
+2010/2011;06601;L'Aquila;public    ;U;F;12786
+2010/2011;06601;L'Aquila;public    ;U;M;10662
+2010/2011;06701;Teramo;public    ;U;F;4672
+2010/2011;06701;Teramo;public    ;U;M;3588
+2010/2011;06901;Chieti e Pescara;public    ;U;F;20821
+2010/2011;06901;Chieti e Pescara;public    ;U;M;11537
+2010/2011;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;F;222
+2010/2011;07601;Basilicata;public    ;U;M;3719
+2010/2011;07001;Molise;public    ;U;F;4577
+2010/2011;06307;Napoli Pegaso - telematica;private   ;UT;M;4173
+2010/2011;07101;Foggia;public    ;U;F;6897
+2010/2011;07101;Foggia;public    ;U;M;4044
+2010/2011;07201;Bari;public    ;U;F;37270
+2010/2011;07201;Bari;public    ;U;M;20057
+2010/2011;07202;Bari Politecnico;public    ;P;F;3800
+2010/2011;07202;Bari Politecnico;public    ;P;M;8610
+2010/2011;07203;Casamassima - J.Monnet;private   ;U;F;520
+2010/2011;07203;Casamassima - J.Monnet;private   ;U;M;826
+2010/2011;07501;Salento;public    ;U;F;15689
+2010/2011;06902;Torrevecchia Teatina Leonardo da Vinci - telematica;private   ;UT;M;157
+2010/2011;01509;Milano Bicocca;public    ;U;M;11946
+2010/2011;02701;Venezia Cà Foscari;public    ;U;M;6444
+2010/2011;01503;Milano Bocconi;private   ;U;F;6319
+2010/2011;01503;Milano Bocconi;private   ;U;M;6911
+2010/2011;01504;Milano Cattolica;private   ;U;F;25404
+2010/2011;01504;Milano Cattolica;private   ;U;M;13627
+2010/2011;01505;Milano IULM;private   ;U;F;3097
+2010/2011;01505;Milano IULM;private   ;U;M;1345
+2010/2011;01508;Milano San Raffaele;private   ;U;F;1209
+2010/2011;01502;Milano Politecnico;public    ;P;F;12627
+2010/2011;01509;Milano Bicocca;public    ;U;F;19732
+2010/2011;01501;Milano;public    ;U;M;24761
+2010/2011;01601;Bergamo;public    ;U;F;9268
+2010/2011;01601;Bergamo;public    ;U;M;5752
+2010/2011;01701;Brescia;public    ;U;F;6678
+2010/2011;01701;Brescia;public    ;U;M;7729
+2010/2011;01801;Pavia;public    ;U;F;12519
+2010/2011;01801;Pavia;public    ;U;M;10028
+2010/2011;02101;Bolzano;public    ;U;F;2298
+2010/2011;02101;Bolzano;public    ;U;M;889
+2010/2011;02201;Trento;public    ;U;F;8435
+2010/2011;01508;Milano San Raffaele;private   ;U;M;743
+2010/2011;00701;Aosta;public    ;U;M;305
+2010/2011;09201;Cagliari;public    ;U;M;12640
+2010/2011;00101;Torino;public    ;U;F;41412
+2010/2011;00101;Torino;public    ;U;M;25039
+2010/2011;00102;Torino Politecnico;public    ;P;F;7390
+2010/2011;00102;Torino Politecnico;public    ;P;M;18748
+2010/2011;00201;Piemonte Orientale;public    ;U;F;5930
+2010/2011;00201;Piemonte Orientale;public    ;U;M;3742
+2010/2011;00401;Bra Scienze Gastronomiche;private   ;U;F;109
+2010/2011;01502;Milano Politecnico;public    ;P;M;25398
+2010/2011;00701;Aosta;public    ;U;F;939
+2010/2011;02701;Venezia Cà Foscari;public    ;U;F;11494
+2010/2011;01001;Genova;public    ;U;F;20982
+2010/2011;01001;Genova;public    ;U;M;16029
+2010/2011;01201;Castellanza LIUC;private   ;U;F;610
+2010/2011;01201;Castellanza LIUC;private   ;U;M;1219
+2010/2011;01202;Insubria;public    ;U;F;5206
+2010/2011;01202;Insubria;public    ;U;M;4155
+2010/2011;01301;Novedrate e-Campus - telematica;private   ;UT;F;2484
+2010/2011;01301;Novedrate e-Campus - telematica;private   ;UT;M;3725
+2010/2011;01501;Milano;public    ;U;F;35292
+2010/2011;00401;Bra Scienze Gastronomiche;private   ;U;M;140
+2010/2011;05202;Siena Stranieri;public    ;U;F;558
+2010/2011;04302;Camerino;public    ;U;F;3786
+2010/2011;04302;Camerino;public    ;U;M;3938
+2010/2011;04801;Firenze;public    ;U;F;32715
+2010/2011;04801;Firenze;public    ;U;M;23465
+2010/2011;04804;Firenze IUL - telematica;private   ;UT;F;14
+2010/2011;04804;Firenze IUL - telematica;private   ;UT;M;4
+2010/2011;05001;Pisa;public    ;U;F;24303
+2010/2011;05001;Pisa;public    ;U;M;22238
+2010/2011;02201;Trento;public    ;U;M;7900
+2010/2011;05201;Siena;public    ;U;M;7183
+2010/2011;04201;Marche;public    ;P;M;9341
+2010/2011;05202;Siena Stranieri;public    ;U;M;122
+2010/2011;05401;Perugia;public    ;U;F;15638
+2010/2011;05401;Perugia;public    ;U;M;11956
+2010/2011;05403;Perugia Stranieri;public    ;U;F;875
+2010/2011;05403;Perugia Stranieri;public    ;U;M;601
+2010/2011;05601;Tuscia;public    ;U;F;3867
+2010/2011;05601;Tuscia;public    ;U;M;5101
+2010/2011;05801;Roma La Sapienza;public    ;U;F;72791
+2010/2011;05801;Roma La Sapienza;public    ;U;M;49850
+2010/2011;05201;Siena;public    ;U;F;10337
+2010/2011;03601;Modena e Reggio Emilia;public    ;U;F;10597
+2010/2011;05802;Roma Tor Vergata;public    ;U;F;16957
+2010/2011;02702;Venezia Iuav;public    ;U;F;2897
+2010/2011;02702;Venezia Iuav;public    ;U;M;3092
+2010/2011;02801;Padova;public    ;U;F;34362
+2010/2011;02801;Padova;public    ;U;M;27025
+2010/2011;03001;Udine;public    ;U;F;8793
+2010/2011;03001;Udine;public    ;U;M;7736
+2010/2011;03201;Trieste;public    ;U;F;11040
+2010/2011;03201;Trieste;public    ;U;M;8271
+2010/2011;04301;Macerata;public    ;U;M;3439
+2010/2011;03401;Parma;public    ;U;M;13365
+2010/2011;04301;Macerata;public    ;U;F;8063
+2010/2011;03601;Modena e Reggio Emilia;public    ;U;M;8841
+2010/2011;03701;Bologna;public    ;U;F;45072
+2010/2011;03701;Bologna;public    ;U;M;34853
+2010/2011;03801;Ferrara;public    ;U;F;9998
+2010/2011;03801;Ferrara;public    ;U;M;7964
+2010/2011;04101;Urbino;public    ;U;F;9403
+2010/2011;04101;Urbino;public    ;U;M;5658
+2010/2011;04201;Marche;public    ;P;F;7269
+2010/2011;02301;Verona;public    ;U;F;15393
+2010/2011;03401;Parma;public    ;U;F;17119
